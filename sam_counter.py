@@ -18,7 +18,6 @@ import time
 import subprocess
 import random
 import os
-from Bio import SeqIO
 import numpy as np
 
 
