@@ -1,0 +1,13 @@
+#These are the nucleotide sequences of the 3' end of L1 oligo; these appear at the start of read2 in tRNA-seq libraries.
+L1_bc1  TTC
+L1_bc2  CCT
+L1_bc3  AAC
+L1_bc4  GGT
+L1_bc5  TGG
+L1_bc6  CAA
+L1_bc7	ACA
+L1_bc8	GTG
+L1_bc9	CGC
+L1_bc10	TAG
+L1_bc11	AAT
+L1_bc12	GCC
