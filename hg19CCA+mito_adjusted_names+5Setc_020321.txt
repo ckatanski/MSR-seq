@@ -1,0 +1,689 @@
+>Homo_sapiens_chr1.trna87-AlaAGC ncrna Chromosome:NA trna87-AlaAGC gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna87-AlaAGC Homo_sapiens_chr1.trna87-AlaAGC (150017452-150017382)  Ala (AGC) 71 bp  Sc: 48.21
+GGGGGTGTAGATCAGTGGTAGGGCGCACGCTTAGCATGCATGAGGCCCTGGGTCAATCCCCAGCACCTCCACCA
+>Homo_sapiens_chr6.trna94-AlaAGC ncrna Chromosome:NA trna94-AlaAGC gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna94-AlaAGC Homo_sapiens_chr6.trna94-AlaAGC (58142661-58142589)  Ala (AGC) 73 bp  Sc: 54.62
+GGGGGATTAGCTCAAGCGGTAGAGCGCCTGCTTAGCATGCAAGAGGTAGCAGGATCGATGCCTGCATTCTCCACCA
+>Homo_sapiens_chr6.trna160-AlaAGC ncrna Chromosome:NA trna160-AlaAGC gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna160-AlaAGC Homo_sapiens_chr6.trna160-AlaAGC (26773843-26773771)  Ala (AGC) 73 bp  Sc: 54.69
+GGGGAATTGGCTCAAGCGGTAGAGCGCTTGCTTAGCATGCAAGAGGTAGCAGGATCGACGCCTGCACTCTCCACCA
+>Homo_sapiens_chr6.trna90-AlaAGC ncrna Chromosome:NA trna90-AlaAGC gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna90-AlaAGC Homo_sapiens_chr6.trna90-AlaAGC (58187516-58187444)  Ala (AGC) 73 bp  Sc: 54.84
+GGGGAATTAGCGCAAGTGGTAGAGTGCTTGCTTAGCATGCAAGAGGTAGTGGGATCGATGCCCACATTCTCCACCA
+>Homo_sapiens_chr6.trna89-AlaAGC ncrna Chromosome:NA trna89-AlaAGC gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna89-AlaAGC Homo_sapiens_chr6.trna89-AlaAGC (58196695-58196623)  Ala (AGC) 73 bp  Sc: 57.89
+GGGGAATTAGCCCAAGTGGTAGAGCGCTTGCTTAGCATGCAAGAGGTAGTGGGATCGATGCCCACATTCTCCACCA
+>Homo_sapiens_chr14.trna9-AlaAGC ncrna Chromosome:NA trna9-AlaAGC gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna9-AlaAGC Homo_sapiens_chr14.trna9-AlaAGC (89445442-89445514)  Ala (AGC) 73 bp  Sc: 59.85
+GGGGAATTAGCTCAAGTGGTAGAGCGCTCGCTTAGCATGCGAGAGGTAGTGGGATCGATGCCCGCATTCTCCACCA
+>Homo_sapiens_chr6.trna18-AlaAGC ncrna Chromosome:NA trna18-AlaAGC gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna18-AlaAGC Homo_sapiens_chr6.trna18-AlaAGC (26673590-26673662)  Ala (AGC) 73 bp  Sc: 60.72
+GGGGAATTAGCTCAAGTGGTAGAGCGCTTGCTTAGCATGCAAGAGGTAGTGGGATCAATGCCCACATTCTCCACCA
+>Homo_sapiens_chr6.trna22-AlaAGC ncrna Chromosome:NA trna22-AlaAGC gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna22-AlaAGC Homo_sapiens_chr6.trna22-AlaAGC (26705606-26705678)  Ala (AGC) 73 bp  Sc: 61.81
+GGGGAATTAGCTCAAGCGGTAGAGCGCTTGCTTAGCATGCAAGAGGTAGTGGGATCGATGCCCACATTCTCCACCA
+>Homo_sapiens_chr6.trna159-AlaAGC ncrna Chromosome:NA trna159-AlaAGC gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna159-AlaAGC Homo_sapiens_chr6.trna159-AlaAGC (26796078-26796006)  Ala (AGC) 73 bp  Sc: 62.45
+GGGGAATTAGCTCAAGTGGTAGAGCGCTTGCTTAGCATGCAAGAGGTAGTGGGATCGATGCCCACATTCTCCACCA
+>Homo_sapiens_chr6.trna166-AlaAGC ncrna Chromosome:NA trna166-AlaAGC gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna166-AlaAGC Homo_sapiens_chr6.trna166-AlaAGC (26572164-26572092)  Ala (AGC) 73 bp  Sc: 63.06
+GGGGAATTAGCTCAAATGGTAGAGCGCTCGCTTAGCATGCGAGAGGTAGCGGGATCGATGCCCGCATTCTCCACCA
+>Homo_sapiens_chr6.trna20-AlaAGC ncrna Chromosome:NA trna20-AlaAGC gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna20-AlaAGC Homo_sapiens_chr6.trna20-AlaAGC (26687485-26687557)  Ala (AGC) 73 bp  Sc: 63.16
+GGGGAATTAGCTCAAGTGGTAGAGCGCTTGCTTAGCACGCAAGAGGTAGTGGGATCGATGCCCACATTCTCCACCA
+>Homo_sapiens_chr6.trna161-AlaAGC ncrna Chromosome:NA trna161-AlaAGC gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna161-AlaAGC Homo_sapiens_chr6.trna161-AlaAGC (26771362-26771290)  Ala (AGC) 73 bp  Sc: 63.36
+GGGGAATTAGCTCAGGCGGTAGAGCGCTCGCTTAGCATGCGAGAGGTAGCGGGATCGACGCCCGCATTCTCCACCA
+>Homo_sapiens_chr2.trna3-AlaAGC ncrna Chromosome:NA trna3-AlaAGC gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna3-AlaAGC Homo_sapiens_chr2.trna3-AlaAGC (27274082-27274154)  Ala (AGC) 73 bp  Sc: 63.68
+GGGGGATTAGCTCAAATGGTAGAGCGCTCGCTTAGCATGCGAGAGGTAGCGGGATCGATGCCCGCATCCTCCACCA
+>Homo_sapiens_chr6.trna68-AlaAGC ncrna Chromosome:NA trna68-AlaAGC gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna68-AlaAGC Homo_sapiens_chr6.trna68-AlaAGC (28687481-28687552)  Ala (AGC) 72 bp  Sc: 70.19
+GGGGGTGTAGCTCAGTGGTAGAGCGCGTGCTTAGCATGCACGAGGCCCCGGGTTCAATCCCTGGCACCTCCACCA
+>Homo_sapiens_chr6.trna105-AlaAGC ncrna Chromosome:NA trna105-AlaAGC gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna105-AlaAGC Homo_sapiens_chr6.trna105-AlaAGC (28779920-28779849)  Ala (AGC) 72 bp  Sc: 71.23
+GGGGGTATAGCTCAGCGGTAGAGCGCGTGCTTAGCATGCACGAGGTCCTGGGTTCAATCCCCAATACCTCCACCA
+>Homo_sapiens_chr6.trna67-AlaAGC ncrna Chromosome:NA trna67-AlaAGC gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna67-AlaAGC Homo_sapiens_chr6.trna67-AlaAGC (28678366-28678437)  Ala (AGC) 72 bp  Sc: 75.68
+GGGGGTGTAGCTCAGTGGTAGAGCGCGTGCTTAGCATGCACGAGGCCCTGGGTTCAATCCCCAGCACCTCCACCA
+>Homo_sapiens_chr6.trna120-AlaAGC ncrna Chromosome:NA trna120-AlaAGC gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna120-AlaAGC Homo_sapiens_chr6.trna120-AlaAGC (28626085-28626014)  Ala (AGC) 72 bp  Sc: 75.78
+GGGGATGTAGCTCAGTGGTAGAGCGCATGCTTAGCATGCATGAGGTCCCGGGTTCGATCCCCAGCATCTCCACCA
+>Homo_sapiens_chr6.trna65-AlaAGC ncrna Chromosome:NA trna65-AlaAGC gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna65-AlaAGC Homo_sapiens_chr6.trna65-AlaAGC (28574933-28575004)  Ala (AGC) 72 bp  Sc: 76.69
+GGGGGTGTAGCTCAGTGGTAGAGCGCGTGCTTAGCATGTACGAGGTCCCGGGTTCAATCCCCGGCACCTCCACCA
+>Homo_sapiens_chr6.trna101-AlaAGC ncrna Chromosome:NA trna101-AlaAGC gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna101-AlaAGC Homo_sapiens_chr6.trna101-AlaAGC (28831533-28831462)  Ala (AGC) 72 bp  Sc: 77.18
+GGGGGTGTAGCTCAGTGGTAGAGCGCGTGCTTAGCATGCACGAGGCCCCGGGTTCAATCCCCGGCACCTCCACCA
+>Homo_sapiens_chr6.trna108-AlaAGC ncrna Chromosome:NA trna108-AlaAGC gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna108-AlaAGC Homo_sapiens_chr6.trna108-AlaAGC (28763812-28763741)  Ala (AGC) 72 bp  Sc: 81.12
+GGGGGTATAGCTCAGTGGTAGAGCGCGTGCTTAGCATGCACGAGGTCCTGGGTTCGATCCCCAGTACCTCCACCA
+>Homo_sapiens_chr6.trna117-AlaCGC ncrna Chromosome:NA trna117-AlaCGC gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna117-AlaCGC Homo_sapiens_chr6.trna117-AlaCGC (28663780-28663709)  Ala (CGC) 72 bp  Sc: 56.63
+GGGGGTGTAGATCAGTGGTAGAGCGCATGCTTCGCATGTACGAGGTCCCTGGTTCAATCCCTGGTACCTCCACCA
+>Homo_sapiens_chr6.trna70-AlaCGC ncrna Chromosome:NA trna70-AlaCGC gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna70-AlaCGC Homo_sapiens_chr6.trna70-AlaCGC (28697092-28697163)  Ala (CGC) 72 bp  Sc: 70.09
+GGGGGTGTAGCTCAGTGGTAGAGCGCGTGCTTCGCATGTACGAGGCCCCGGGTTCGACCCCCGGCTCCTCCACCA
+>Homo_sapiens_chr2.trna13-AlaCGC ncrna Chromosome:NA trna13-AlaCGC gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna13-AlaCGC Homo_sapiens_chr2.trna13-AlaCGC (157257281-157257352)  Ala (CGC) 72 bp  Sc: 73.12
+GGGGATGTAGCTCAGTGGTAGAGCGCGCGCTTCGCATGTGTGAGGTCCCGGGTTCAATCCCCGGCATCTCCACCA
+>Homo_sapiens_chr6.trna119-AlaCGC ncrna Chromosome:NA trna119-AlaCGC gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna119-AlaCGC Homo_sapiens_chr6.trna119-AlaCGC (28641684-28641613)  Ala (CGC) 72 bp  Sc: 74.81
+GGGGATGTAGCTCAGTGGTAGAGCGCATGCTTCGCATGTATGAGGCCCCGGGTTCGATCCCCGGCATCTCCACCA
+>Homo_sapiens_chr6.trna10-AlaCGC ncrna Chromosome:NA trna10-AlaCGC gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna10-AlaCGC Homo_sapiens_chr6.trna10-AlaCGC (26553731-26553802)  Ala (CGC) 72 bp  Sc: 78.91
+GGGGATGTAGCTCAGTGGTAGAGCGCATGCTTCGCATGTATGAGGTCCCGGGTTCGATCCCCGGCATCTCCACCA
+>Homo_sapiens_chr11.trna18-AlaTGC ncrna Chromosome:NA trna18-AlaTGC gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna18-AlaTGC Homo_sapiens_chr11.trna18-AlaTGC (50233950-50233879)  Ala (TGC) 72 bp  Sc: 51.06
+GGGGGTGTAGCTCAGTGGTAGAGCGGATGCTTTGCATGTATGAGACTTTGGGTTGGATCCCCAGCACCTCCACCA
+>Homo_sapiens_chr6.trna107-AlaTGC ncrna Chromosome:NA trna107-AlaTGC gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna107-AlaTGC Homo_sapiens_chr6.trna107-AlaTGC (28770647-28770577)  Ala (TGC) 71 bp  Sc: 59.75
+GGGGGTGTAGCTCAGTGGTAGAGCGCATGCTTTGCATGTATGAGGCCTCGGTTCGATCCCCGACACCTCCACCA
+>Homo_sapiens_chr6.trna113-AlaTGC ncrna Chromosome:NA trna113-AlaTGC gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna113-AlaTGC Homo_sapiens_chr6.trna113-AlaTGC (28726212-28726141)  Ala (TGC) 72 bp  Sc: 67.60
+GGGGGTGTAGCTCAGTGGTAGAGCACATGCTTTGCATGTGTGAGGCCCCGGGTTCGATCCCCGGCACCTCCACCA
+>Homo_sapiens_chr6.trna104-AlaTGC ncrna Chromosome:NA trna104-AlaTGC gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna104-AlaTGC Homo_sapiens_chr6.trna104-AlaTGC (28785083-28785012)  Ala (TGC) 72 bp  Sc: 70.95
+GGGGGTGTAGCTCAGTGGTAGAGCGCATGCTTTGCATGTATGAGGCCTCGGGTTCGATCCCCGACACCTCCACCA
+>Homo_sapiens_chr12.trna8-AlaTGC ncrna Chromosome:NA trna8-AlaTGC gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna8-AlaTGC Homo_sapiens_chr12.trna8-AlaTGC (125424512-125424583)  Ala (TGC) 72 bp  Sc: 73.41
+GGGGATGTAGCTCAGTGGTAGAGCGCATGCTTTGCACGTATGAGGCCCCGGGTTCAATCCCCGGCATCTCCACCA
+>Homo_sapiens_chr12.trna13-AlaTGC ncrna Chromosome:NA trna13-AlaTGC gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna13-AlaTGC Homo_sapiens_chr12.trna13-AlaTGC (125406372-125406301)  Ala (TGC) 72 bp  Sc: 74.45
+GGGGATGTAGCTCAGTGGTAGAGCGCATGCTTTGCATGTATGAGGCCCCGGGTTCGATCCCCGGCATCTCCACCA
+>Homo_sapiens_chr6.trna66-AlaTGC ncrna Chromosome:NA trna66-AlaTGC gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna66-AlaTGC Homo_sapiens_chr6.trna66-AlaTGC (28611222-28611293)  Ala (TGC) 72 bp  Sc: 78.55
+GGGGATGTAGCTCAGTGGTAGAGCGCATGCTTTGCATGTATGAGGTCCCGGGTTCGATCCCCGGCATCTCCACCA
+>Homo_sapiens_chr6.trna110-AlaTGC ncrna Chromosome:NA trna110-AlaTGC gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna110-AlaTGC Homo_sapiens_chr6.trna110-AlaTGC (28757618-28757547)  Ala (TGC) 72 bp  Sc: 79.16
+GGGGGTGTAGCTCAGTGGTAGAGCGCATGCTTTGCATGTATGAGGTCCCGGGTTCGATCCCCGGCACCTCCACCA
+>Homo_sapiens_chr3.trna11-ArgACG ncrna Chromosome:NA trna11-ArgACG gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna11-ArgACG Homo_sapiens_chr3.trna11-ArgACG (45730563-45730491)  Arg (ACG) 73 bp  Sc: 68.07
+GGGCCAGTGGCGCAATGGATAACGCGTCTGACTACGGATCAGAAGATTCTAGGTTCGACTCCTGGCTGGCTCGCCA
+>Homo_sapiens_chr14.trna7-ArgACG ncrna Chromosome:NA trna7-ArgACG gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna7-ArgACG Homo_sapiens_chr14.trna7-ArgACG (23398910-23398982)  Arg (ACG) 73 bp  Sc: 72.37
+GGGCCAGTGGCGCAATGGATAACGCGTCTGACTACGGATCAGAAGATTCCAGGTTCGACTCCTGGCTGGCTCGCCA
+>Homo_sapiens_chr17.trna23-ArgCCG ncrna Chromosome:NA trna23-ArgCCG gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna23-ArgCCG Homo_sapiens_chr17.trna23-ArgCCG (66016085-66016013)  Arg (CCG) 73 bp  Sc: 65.49
+GACCCAGTGGCCTAATGGATAAGGCATCAGCCTCCGGAGCTGGGGATTGTGGGTTCGAGTCCCATCTGGGTCGCCA
+>Homo_sapiens_chr16.trna1-ArgCCG ncrna Chromosome:NA trna1-ArgCCG gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna1-ArgCCG Homo_sapiens_chr16.trna1-ArgCCG (3200675-3200747)  Arg (CCG) 73 bp  Sc: 69.88
+GGCCGCGTGGCCTAATGGATAAGGCGTCTGATTCCGGATCAGAAGATTGAGGGTTCGAGTCCCTTCGTGGTCGCCA
+>Homo_sapiens_chr16.trna12-ArgCCT ncrna Chromosome:NA trna12-ArgCCT gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna12-ArgCCT Homo_sapiens_chr16.trna12-ArgCCT (3243918-3243990)  Arg (CCT) 73 bp  Sc: 59.77
+GCCCCAGTGGCCTGATGGATAAGGTACTGGCCTCCTAAGCCAGGGATTGTGGGTTCGAGTTCCACCTGGGGTACCA
+>Homo_sapiens_chr7.trna3-ArgCCT ncrna Chromosome:NA trna3-ArgCCT gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna3-ArgCCT Homo_sapiens_chr7.trna3-ArgCCT (139025446-139025518)  Arg (CCT) 73 bp  Sc: 67.28
+GCCCCAGTGGCCTAATGGATAAGGCATTGGCCTCCTAAGCCAGGGATTGTGGGTTCGAGTCCCATCTGGGGTGCCA
+>Homo_sapiens_chr16.trna2-ArgCCT ncrna Chromosome:NA trna2-ArgCCT gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna2-ArgCCT Homo_sapiens_chr16.trna2-ArgCCT (3202901-3202973)  Arg (CCT) 73 bp  Sc: 71.53
+GCCCCGGTGGCCTAATGGATAAGGCATTGGCCTCCTAAGCCAGGGATTGTGGGTTCGAGTCCCACCCGGGGTACCA
+>Homo_sapiens_chr17.trna21-ArgCCT ncrna Chromosome:NA trna21-ArgCCT gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna21-ArgCCT Homo_sapiens_chr17.trna21-ArgCCT (73030598-73030526)  Arg (CCT) 73 bp  Sc: 73.41
+GCCCCAGTGGCCTAATGGATAAGGCACTGGCCTCCTAAGCCAGGGATTGTGGGTTCGAGTCCCACCTGGGGTGCCA
+>Homo_sapiens_chr17.trna18-ArgCCT ncrna Chromosome:NA trna18-ArgCCT gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna18-ArgCCT Homo_sapiens_chr17.trna18-ArgCCT (73030001-73030073)  Arg (CCT) 73 bp  Sc: 73.88
+GCCCCAGTGGCCTAATGGATAAGGCACTGGCCTCCTAAGCCAGGGATTGTGGGTTCGAGTCCCACCTGGGGTACCA
+>Homo_sapiens_chr9.trna2-ArgTCG ncrna Chromosome:NA trna2-ArgTCG gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna2-ArgTCG Homo_sapiens_chr9.trna2-ArgTCG (112960803-112960875)  Arg (TCG) 73 bp  Sc: 56.18
+GGCCGTGTGGCCTAATGGATAAGGCGTCTGACTTCGGATCAAAAGATTGCAGGTTTGAGTTCTGCCACGGTCGCCA
+>Homo_sapiens_chr6.trna124-ArgTCG ncrna Chromosome:NA trna124-ArgTCG gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna124-ArgTCG Homo_sapiens_chr6.trna124-ArgTCG (28510963-28510891)  Arg (TCG) 73 bp  Sc: 69.08
+GACCACGTGGCCTAATGGATAAGGCGTCTGACTTCGGATCAGAAGATTGAGGGTTCGAATCCCTTCGTGGTTGCCA
+>Homo_sapiens_chr6.trna3-ArgTCG ncrna Chromosome:NA trna3-ArgTCG gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna3-ArgTCG Homo_sapiens_chr6.trna3-ArgTCG (26299905-26299977)  Arg (TCG) 73 bp  Sc: 69.55
+GACCACGTGGCCTAATGGATAAGGCGTCTGACTTCGGATCAGAAGATTGAGGGTTCGAATCCCTTCGTGGTTACCA
+>Homo_sapiens_chr17.trna19-ArgTCG ncrna Chromosome:NA trna19-ArgTCG gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna19-ArgTCG Homo_sapiens_chr17.trna19-ArgTCG (73031208-73031280)  Arg (TCG) 73 bp  Sc: 70.52
+GACCGCGTGGCCTAATGGATAAGGCGTCTGACTTCGGATCAGAAGATTGAGGGTTCGAGTCCCTTCGTGGTCGCCA
+>Homo_sapiens_chr6.trna4-ArgTCG ncrna Chromosome:NA trna4-ArgTCG gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna4-ArgTCG Homo_sapiens_chr6.trna4-ArgTCG (26323046-26323118)  Arg (TCG) 73 bp  Sc: 72.33
+GACCACGTGGCCTAATGGATAAGGCGTCTGACTTCGGATCAGAAGATTGAGGGTTCGAATCCCTCCGTGGTTACCA
+>Homo_sapiens_chr15.trna4-ArgTCG ncrna Chromosome:NA trna4-ArgTCG gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna4-ArgTCG Homo_sapiens_chr15.trna4-ArgTCG (89878304-89878376)  Arg (TCG) 73 bp  Sc: 76.93
+GGCCGCGTGGCCTAATGGATAAGGCGTCTGACTTCGGATCAGAAGATTGCAGGTTCGAGTCCTGCCGCGGTCGCCA
+>Homo_sapiens_chr1.trna86-ArgTCT ncrna Chromosome:NA trna86-ArgTCT gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna86-ArgTCT Homo_sapiens_chr1.trna86-ArgTCT (159111474-159111401)  Arg (TCT) 74 bp  Sc: 76.29
+GTCTCTGTGGCGCAATGGACGAGCGCGCTGGACTTCTAATCCAGAGGTTCCGGGTTCGAGTCCCGGCAGAGATGCCA
+>Homo_sapiens_chr9.trna4-ArgTCT ncrna Chromosome:NA trna4-ArgTCT gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna4-ArgTCT Homo_sapiens_chr9.trna4-ArgTCT (131102445-131102355)  Arg (TCT) 73 bp  Sc: 67.17
+GGCTCTGTGGCGCAATGGATAGCGCATTGGACTTCTAATTCAAAGGTTGTGGGTTCGAGTCCCACCAGAGTCGCCA
+>Homo_sapiens_chr6.trna52-ArgTCT ncrna Chromosome:NA trna52-ArgTCT gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna52-ArgTCT Homo_sapiens_chr6.trna52-ArgTCT (27529963-27530049)  Arg (TCT) 73 bp  Sc: 65.24
+GGCTCTGTGGCGCAATGGATAGCGCATTGGACTTCTAATTCAAAGGTTGCGGGTTCGAGTCCCTCCAGAGTCGCCA
+>Homo_sapiens_chr11.trna3-ArgTCT ncrna Chromosome:NA trna3-ArgTCT gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna3-ArgTCT Homo_sapiens_chr11.trna3-ArgTCT (59318767-59318852)  Arg (TCT) 73 bp  Sc: 71.13
+GGCTCTGTGGCGCAATGGATAGCGCATTGGACTTCTAATTCAAAGGTTGTGGGTTCGAGTCCCACCAGAGTCGCCA
+>Homo_sapiens_chr17.trna4-ArgTCT ncrna Chromosome:NA trna4-ArgTCT gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna4-ArgTCT Homo_sapiens_chr17.trna4-ArgTCT (8024243-8024330)  Arg (TCT) 73 bp  Sc: 71.27
+GGCTCTGTGGCGCAATGGATAGCGCATTGGACTTCTAATTCAAAGGTTGTGGGTTCGAATCCCACCAGAGTCGCCA
+>Homo_sapiens_chr1.trna9-ArgTCT ncrna Chromosome:NA trna9-ArgTCT gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna9-ArgTCT Homo_sapiens_chr1.trna9-ArgTCT (94313129-94313213)  Arg (TCT) 73 bp  Sc: 71.18
+GGCTCCGTGGCGCAATGGATAGCGCATTGGACTTCTAATTCAAAGGTTCCGGGTTCGAGTCCCGGCGGAGTCGCCA
+>Homo_sapiens_chr1.trna20-AsnATT ncrna Chromosome:NA trna20-AsnATT gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna20-AsnATT Homo_sapiens_chr1.trna20-AsnATT (147719029-147719102)  Asn (ATT) 74 bp  Sc: 52.07
+GTCTCTGTGGCGCAATCGGTCAGAGCGTTCGGCTATTAACCGAACGGTGAGTAGTTCAAGACCACCCAGGGACGCCA
+>Homo_sapiens_chr1.trna135-AsnGTT ncrna Chromosome:NA trna135-AsnGTT gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna135-AsnGTT Homo_sapiens_chr1.trna135-AsnGTT (16858966-16858893)  Asn (GTT) 74 bp  Sc: 48.81
+GTCTCTGTGGTGCAATCGGTTAGCGCGTTCGGCTGTTAACCATAAGGTTGGTGGTTACAGACCACCCAGGGACGCCA
+>Homo_sapiens_chr1.trna50-AsnGTT ncrna Chromosome:NA trna50-AsnGTT gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna50-AsnGTT Homo_sapiens_chr1.trna50-AsnGTT (161591465-161591538)  Asn (GTT) 74 bp  Sc: 49.69
+GTTTCTGTAGCGCGATCGGTTAGCGCCTTCGGCTGTTAAACGAAAGGTTGGTGGTTCGTTCCCACCCCGGGACACCA
+>Homo_sapiens_chr1.trna10-AsnGTT ncrna Chromosome:NA trna10-AsnGTT gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna10-AsnGTT Homo_sapiens_chr1.trna10-AsnGTT (143690028-143690101)  Asn (GTT) 74 bp  Sc: 49.96
+GTCTCTGTGGCGCAATCGGTTAGCGCGTTTGACTGTTAACTGAAAGGTTGGTGGTGCAAGCCCATCCAGGGATGCCA
+>Homo_sapiens_chr1.trna101-AsnGTT ncrna Chromosome:NA trna101-AsnGTT gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna101-AsnGTT Homo_sapiens_chr1.trna101-AsnGTT (149284576-149284503)  Asn (GTT) 74 bp  Sc: 51.19
+ATCTCCGTGGAGCAATTGGTTAGCGCGTTCGGCTGTTAACCGGAAAGTTGGTGGTTCGAGCCTACCCAGGGACGCCA
+>Homo_sapiens_chr1.trna12-AsnGTT ncrna Chromosome:NA trna12-AsnGTT gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna12-AsnGTT Homo_sapiens_chr1.trna12-AsnGTT (144481840-144481913)  Asn (GTT) 74 bp  Sc: 53.66
+GTCTCTGTGGTGCAATCGGTTAGCGCGTTCCGCTGTTAACCGAAAGCTTGGTGGTTTGAGCCCACCCAGGGATGCCA
+>Homo_sapiens_chr1.trna6-AsnGTT ncrna Chromosome:NA trna6-AsnGTT gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna6-AsnGTT Homo_sapiens_chr1.trna6-AsnGTT (17201958-17202031)  Asn (GTT) 74 bp  Sc: 56.35
+GTCTCTGTGGTGCAATCGGTTAGCGCGTTCGGCTGTTAACCATAAGGTTGGTGGTTAGAGACCACCCAGGGACGCCA
+>Homo_sapiens_chr1.trna97-AsnGTT ncrna Chromosome:NA trna97-AsnGTT gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna97-AsnGTT Homo_sapiens_chr1.trna97-AsnGTT (149326345-149326272)  Asn (GTT) 74 bp  Sc: 59.90
+GTCTCTGTGGCGCAATCGGCTAGCGCGTTTGGCTGTTAACTAAAAAGTTGGTGGTTCGAACACACCCAGAGGCGCCA
+>Homo_sapiens_chr1.trna11-AsnGTT ncrna Chromosome:NA trna11-AsnGTT gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna11-AsnGTT Homo_sapiens_chr1.trna11-AsnGTT (144301611-144301684)  Asn (GTT) 74 bp  Sc: 60.57
+GTCTCTGTGGTGCAATCGGTTAGCGCGTTCCGCTGTTAACCGAAAGCTTGGTGGTTCGAGCCCACCCAGGGATGCCA
+>Homo_sapiens_chr1.trna124-AsnGTT ncrna Chromosome:NA trna124-AsnGTT gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna124-AsnGTT Homo_sapiens_chr1.trna124-AsnGTT (143879905-143879832)  Asn (GTT) 74 bp  Sc: 66.79
+GTCTCTGTGGCGCAATCGGCTAGCGCGTTTGGCTGTTAACTAAAAGGTTGGCGGTTCGAACCCACCCAGAGGCGCCA
+>Homo_sapiens_chr1.trna113-AsnGTT ncrna Chromosome:NA trna113-AsnGTT gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna113-AsnGTT Homo_sapiens_chr1.trna113-AsnGTT (147520840-147520767)  Asn (GTT) 74 bp  Sc: 70.44
+GTCTCTGTGGCGCAATCGGTTAGCGCGTTCGGCTGTTAACTGAAAGGTTAGTGGTTCGAGCCCACCCGGGGACGCCA
+>Homo_sapiens_chr1.trna89-AsnGTT ncrna Chromosome:NA trna89-AsnGTT gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna89-AsnGTT Homo_sapiens_chr1.trna89-AsnGTT (149711871-149711798)  Asn (GTT) 74 bp  Sc: 71.43
+GTCTCTGTGGCGCAATCGGCTAGCGCGTTTGGCTGTTAACTAAAAGGTTGGTGGTTCGAACCCACCCAGAGGCGCCA
+>Homo_sapiens_chr1.trna25-AsnGTT ncrna Chromosome:NA trna25-AsnGTT gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna25-AsnGTT Homo_sapiens_chr1.trna25-AsnGTT (148000805-148000878)  Asn (GTT) 74 bp  Sc: 72.61
+GTCTCTGTGGCGTAGTCGGTTAGCGCGTTCGGCTGTTAACCGAAAAGTTGGTGGTTCGAGCCCACCCAGGAACGCCA
+>Homo_sapiens_chr1.trna103-AsnGTT ncrna Chromosome:NA trna103-AsnGTT gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna103-AsnGTT Homo_sapiens_chr1.trna103-AsnGTT (149230643-149230570)  Asn (GTT) 74 bp  Sc: 77.16
+GTCTCTGTGGCGCAATGGGTTAGCGCGTTCGGCTGTTAACCGAAAGGTTGGTGGTTCGAGCCCATCCAGGGACGCCA
+>Homo_sapiens_chr1.trna136-AsnGTT ncrna Chromosome:NA trna136-AsnGTT gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna136-AsnGTT Homo_sapiens_chr1.trna136-AsnGTT (16847153-16847080)  Asn (GTT) 74 bp  Sc: 77.65
+GTCTCTGTGGCGCAATCGGTTAGCGCGTTCGGCTGTTAACTGAAAGGTTGGTGGTTCGAGCCCACCCAGGGACGCCA
+>Homo_sapiens_chr1.trna7-AsnGTT ncrna Chromosome:NA trna7-AsnGTT gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna7-AsnGTT Homo_sapiens_chr1.trna7-AsnGTT (17216172-17216245)  Asn (GTT) 74 bp  Sc: 80.35
+GTCTCTGTGGCGCAATCGGTTAGCGCGTTCGGCTGTTAACCGAAAGATTGGTGGTTCGAGCCCACCCAGGGACGCCA
+>Homo_sapiens_chr1.trna107-AsnGTT ncrna Chromosome:NA trna107-AsnGTT gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna107-AsnGTT Homo_sapiens_chr1.trna107-AsnGTT (148760429-148760356)  Asn (GTT) 74 bp  Sc: 80.52
+GTCTCTGTGGCGCAATCGGTTAGCGCATTCGGCTGTTAACCGAAAGGTTGGTGGTTCGAGCCCACCCAGGGACGCCA
+>Homo_sapiens_chr1.trna26-AsnGTT ncrna Chromosome:NA trna26-AsnGTT gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna26-AsnGTT Homo_sapiens_chr1.trna26-AsnGTT (148248115-148248188)  Asn (GTT) 74 bp  Sc: 82.24
+GTCTCTGTGGCGCAATCGGTTAGCGCGTTCGGCTGTTAACCGAAAGGTTGGTGGTTCGAGCCCACCCAGGGACGCCA
+>Homo_sapiens_chr1.trna47-AsnGTT ncrna Chromosome:NA trna47-AsnGTT gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna47-AsnGTT Homo_sapiens_chr1.trna47-AsnGTT (161510031-161510104)  Asn (GTT) 74 bp  Sc: 83.66
+GTCTCTGTGGCGCAATCGGTTAGCGCGTTCGGCTGTTAACCGAAAGGTTGGTGGTTCGATCCCACCCAGGGACGCCA
+>Homo_sapiens_chr5.trna22-AspGTC ncrna Chromosome:NA trna22-AspGTC gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna22-AspGTC Homo_sapiens_chr5.trna22-AspGTC (141774059-141773988)  Asp (GTC) 72 bp  Sc: 54.87
+TCCTCATCAGTATAGTGGTGAGTATCCCCGCCTGTCACGCGGGAGACTGGGGTTCGATTCCCTGAGGAGGAGCCA
+>Homo_sapiens_chr9.trna6-AspGTC ncrna Chromosome:NA trna6-AspGTC gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna6-AspGTC Homo_sapiens_chr9.trna6-AspGTC (77518061-77517990)  Asp (GTC) 72 bp  Sc: 54.95
+TCCTCGTTAGTATGGTGGTGAGTATCCCTGCCTGTCACGCGGGAGACCGGGGTTCGATTCCCCAACGGGGAGCCA
+>Homo_sapiens_chr6.trna144-AspGTC ncrna Chromosome:NA trna144-AspGTC gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna144-AspGTC Homo_sapiens_chr6.trna144-AspGTC (27551307-27551236)  Asp (GTC) 72 bp  Sc: 64.62
+TCCTCGTTAGTATAGTGGTGAGTGTCCCCGTCTGTCACGCGGGAGACCGGGGTTCGATTCCCCGACGGGGAGCCA
+>Homo_sapiens_chr1.trna69-AspGTC ncrna Chromosome:NA trna69-AspGTC gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna69-AspGTC Homo_sapiens_chr1.trna69-AspGTC (161440276-161440205)  Asp (GTC) 72 bp  Sc: 72.92
+TCCTCGTTAGTATAGTGGTGAGTATCCCCGCCTGTCACGCGGGAGACCGGGGTTCGATTCCCCGACGGGGAGCCA
+>Homo_sapiens_chr12.trna5-AspGTC ncrna Chromosome:NA trna5-AspGTC gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna5-AspGTC Homo_sapiens_chr12.trna5-AspGTC (98897281-98897352)  Asp (GTC) 72 bp  Sc: 74.76
+TCCTCGTTAGTATAGTGGTTAGTATCCCCGCCTGTCACGCGGGAGACCGGGGTTCAATTCCCCGACGGGGAGCCA
+>Homo_sapiens_chr17.trna30-CysGCA ncrna Chromosome:NA trna30-CysGCA gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna30-CysGCA Homo_sapiens_chr17.trna30-CysGCA (36990046-36989975)  Cys (GCA) 72 bp  Sc: 51.58
+GGGGGTAGGGCTCAGGGATAGAGCATTTGACTGCAGATCAAGAGGTCCCCGGTTCGAATCTAGGTGCCCCCTCCA
+>Homo_sapiens_chr7.trna19-CysGCA ncrna Chromosome:NA trna19-CysGCA gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna19-CysGCA Homo_sapiens_chr7.trna19-CysGCA (149292376-149292305)  Cys (GCA) 72 bp  Sc: 57.52
+GGGGGTATAGCTCACAGGTAGAGCATTTGACTGCAGATCAAGAGGTCCCCGGTTCAAATCCGGTTACTCCCTCCA
+>Homo_sapiens_chr7.trna8-CysGCA ncrna Chromosome:NA trna8-CysGCA gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna8-CysGCA Homo_sapiens_chr7.trna8-CysGCA (149253802-149253873)  Cys (GCA) 72 bp  Sc: 59.93
+GGGCGTATAGCTCAGGGGTAGAGCATTTGACTGCAGATCAAGAGGTCCCCAGTTCAAATCTGGGTGCCCACTCCA
+>Homo_sapiens_chr7.trna14-CysGCA ncrna Chromosome:NA trna14-CysGCA gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna14-CysGCA Homo_sapiens_chr7.trna14-CysGCA (149361915-149361986)  Cys (GCA) 72 bp  Sc: 60.15
+GGGGGTATAGCTCACAGGTAGAGCATTTGACTGCAGATCAAGAGGTCCCCGGTTCAAATCTGGGTGCCCCCTCCA
+>Homo_sapiens_chr7.trna11-CysGCA ncrna Chromosome:NA trna11-CysGCA gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna11-CysGCA Homo_sapiens_chr7.trna11-CysGCA (149295046-149295117)  Cys (GCA) 72 bp  Sc: 65.84
+GGGCGTATAGCTCAGGGGTAGAGCATTTGACTGCAGATCAAGAGGTCCCCAGTTCAAATCTGGGTGCCCCCTCCA
+>Homo_sapiens_chr7.trna18-CysGCA ncrna Chromosome:NA trna18-CysGCA gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna18-CysGCA Homo_sapiens_chr7.trna18-CysGCA (149310227-149310156)  Cys (GCA) 72 bp  Sc: 67.69
+GGGGGTATAGCTCAGGGGTAGAGCATTTGACTGCAAATCAAGAGGTCCCTGATTCAAATCCAGGTGCCCCCTCCA
+>Homo_sapiens_chr7.trna23-CysGCA ncrna Chromosome:NA trna23-CysGCA gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna23-CysGCA Homo_sapiens_chr7.trna23-CysGCA (149072921-149072850)  Cys (GCA) 72 bp  Sc: 68.91
+GGGGGTATAGTTCAGGGGTAGAGCATTTGACTGCAGATCAAGAGGTCCCTGGTTCAAATCCAGGTGCCCCCTCCA
+>Homo_sapiens_chr7.trna16-CysGCA ncrna Chromosome:NA trna16-CysGCA gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna16-CysGCA Homo_sapiens_chr7.trna16-CysGCA (149388343-149388272)  Cys (GCA) 72 bp  Sc: 69.30
+GGGGATATAGCTCAGGGGTAGAGCATTTGACTGCAGATCAAGAGGTCCCCGGTTCAAATCCGGGTGCCCCCCCCA
+>Homo_sapiens_chr7.trna7-CysGCA ncrna Chromosome:NA trna7-CysGCA gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna7-CysGCA Homo_sapiens_chr7.trna7-CysGCA (149243631-149243702)  Cys (GCA) 72 bp  Sc: 69.62
+GGGGGTATAGCTCAGGGGTAGAGCACTTGACTGCAGATCAAGAAGTCCTTGGTTCAAATCCAGGTGCCCCCTCCA
+>Homo_sapiens_chr7.trna10-CysGCA ncrna Chromosome:NA trna10-CysGCA gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna10-CysGCA Homo_sapiens_chr7.trna10-CysGCA (149281816-149281887)  Cys (GCA) 72 bp  Sc: 69.82
+GGGGGTATAGCTCAGGGGTAGAGCATTTGACTGCAGATCAAGAGGTCTCTGGTTCAAATCCAGGTGCCCCCTCCA
+>Homo_sapiens_chr17.trna29-CysGCA ncrna Chromosome:NA trna29-CysGCA gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna29-CysGCA Homo_sapiens_chr17.trna29-CysGCA (37018008-37017937)  Cys (GCA) 72 bp  Sc: 70.63
+GGGGGTATAGCTCAGGGGTAGAGCATTTGACTGCAGATCAAGAAGTCCCCGGTTCAAATCCGGGTGCCCCCTCCA
+>Homo_sapiens_chr7.trna25-CysGCA ncrna Chromosome:NA trna25-CysGCA gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna25-CysGCA Homo_sapiens_chr7.trna25-CysGCA (149052837-149052766)  Cys (GCA) 72 bp  Sc: 71.19
+GGGGGTATAGCTCAGGGGTAGAGCATTTGACTGCAGATCAAGAGGTCCCCAGTTCAAATCTGGGTGCCCCCTCCA
+>Homo_sapiens_chr7.trna17-CysGCA ncrna Chromosome:NA trna17-CysGCA gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna17-CysGCA Homo_sapiens_chr7.trna17-CysGCA (149344117-149344046)  Cys (GCA) 72 bp  Sc: 71.81
+GGGGGTATAGCTTAGGGGTAGAGCATTTGACTGCAGATCAAAAGGTCCCTGGTTCAAATCCAGGTGCCCCTTCCA
+>Homo_sapiens_chr7.trna21-CysGCA ncrna Chromosome:NA trna21-CysGCA gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna21-CysGCA Homo_sapiens_chr7.trna21-CysGCA (149112300-149112229)  Cys (GCA) 72 bp  Sc: 73.76
+GGGGGTATAGCTTAGCGGTAGAGCATTTGACTGCAGATCAAGAGGTCCCCGGTTCAAATCCGGGTGCCCCCTCCA
+>Homo_sapiens_chr7.trna22-CysGCA ncrna Chromosome:NA trna22-CysGCA gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna22-CysGCA Homo_sapiens_chr7.trna22-CysGCA (149074672-149074601)  Cys (GCA) 72 bp  Sc: 73.86
+GGGGGTATAGCTCAGGGGTAGAGCATTTGACTGCAGATCAAGAGGTCCCTGGTTCAAATCCAGGTGCCCCCCCCA
+>Homo_sapiens_chr3.trna6-CysGCA ncrna Chromosome:NA trna6-CysGCA gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna6-CysGCA Homo_sapiens_chr3.trna6-CysGCA (131950713-131950642)  Cys (GCA) 72 bp  Sc: 74.20
+GGGGGTATAGCTCAGGGGTAGAGCATTTGACTGCAGATCAAGAGGTCCCTGGTTCAAATCCAGGTGCCCCCTCCA
+>Homo_sapiens_chr14.trna8-CysGCA ncrna Chromosome:NA trna8-CysGCA gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna8-CysGCA Homo_sapiens_chr14.trna8-CysGCA (73429679-73429750)  Cys (GCA) 72 bp  Sc: 74.26
+GGGGGTATAGCTCAGGGGTAGAGCATTTGACTGCAGATCAAGAGGTCCCCGGTTCAAATCCGGGTGCCCCCTCCA
+>Homo_sapiens_chr1.trna127-CysGCA ncrna Chromosome:NA trna127-CysGCA gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna127-CysGCA Homo_sapiens_chr1.trna127-CysGCA (93981906-93981834)  Cys (GCA) 73 bp  Sc: 74.38
+GGGGGTATAGCTCAGGTGGTAGAGCATTTGACTGCAGATCAAGAGGTCCCCGGTTCAAATCCGGGTGCCCCCTCCA
+>Homo_sapiens_chr3.trna7-CysGCA ncrna Chromosome:NA trna7-CysGCA gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna7-CysGCA Homo_sapiens_chr3.trna7-CysGCA (131948015-131947944)  Cys (GCA) 72 bp  Sc: 74.42
+GGGGGTGTAGCTCAGTGGTAGAGCATTTGACTGCAGATCAAGAGGTCCCTGGTTCAAATCCAGGTGCCCCCTCCA
+>Homo_sapiens_chr15.trna3-CysGCA ncrna Chromosome:NA trna3-CysGCA gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna3-CysGCA Homo_sapiens_chr15.trna3-CysGCA (80036997-80037069)  Cys (GCA) 73 bp  Sc: 74.95
+GGGGGTATAGCTCAGTGGGTAGAGCATTTGACTGCAGATCAAGAGGTCCCCGGTTCAAATCCGGGTGCCCCCTCCA
+>Homo_sapiens_chr17.trna28-CysGCA ncrna Chromosome:NA trna28-CysGCA gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna28-CysGCA Homo_sapiens_chr17.trna28-CysGCA (37025616-37025545)  Cys (GCA) 72 bp  Sc: 77.18
+GGGGGTATAGCTCAGTGGTAGAGCATTTGACTGCAGATCAAGAGGTCCCTGGTTCAAATCCGGGTGCCCCCTCCA
+>Homo_sapiens_chr7.trna20-CysGCA ncrna Chromosome:NA trna20-CysGCA gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna20-CysGCA Homo_sapiens_chr7.trna20-CysGCA (149286235-149286164)  Cys (GCA) 72 bp  Sc: 77.55
+GGGGGTATAGCTCAGGGGTAGAGCACTTGACTGCAGATCAAGAGGTCCCTGGTTCAAATCCAGGTGCCCCCTCCA
+>Homo_sapiens_chr17.trna15-CysGCA ncrna Chromosome:NA trna15-CysGCA gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna15-CysGCA Homo_sapiens_chr17.trna15-CysGCA (37023898-37023969)  Cys (GCA) 72 bp  Sc: 77.71
+GGGGGTATAGCTCAGTGGTAGAGCATTTGACTGCAGATCAAGAGGTCCCCGGTTCAAATCCGGGTGCCCCCTCCA
+>Homo_sapiens_chr7.trna5-CysGCA ncrna Chromosome:NA trna5-CysGCA gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna5-CysGCA Homo_sapiens_chr7.trna5-CysGCA (149007281-149007352)  Cys (GCA) 72 bp  Sc: 79.54
+GGGGGCATAGCTCAGTGGTAGAGCATTTGACTGCAGATCAAGAGGTCCCTGGTTCAAATCCAGGTGCCCCCTCCA
+>Homo_sapiens_chr1.trna22-GlnCTG ncrna Chromosome:NA trna22-GlnCTG gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna22-GlnCTG Homo_sapiens_chr1.trna22-GlnCTG (147800937-147801008)  Gln (CTG) 72 bp  Sc: 56.30
+GGTTCCATGGTGTAATGGTAAGCACTCTGGACTCTGAATCCAGCCATCTGAGTTCGAGTCTCTGTGGAACCTCCA
+>Homo_sapiens_chr6.trna131-GlnCTG ncrna Chromosome:NA trna131-GlnCTG gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna131-GlnCTG Homo_sapiens_chr6.trna131-GlnCTG (27759206-27759135)  Gln (CTG) 72 bp  Sc: 66.25
+GGCCCCATGGTGTAATGGTCAGCACTCTGGACTCTGAATCCAGCGATCCGAGTTCAAATCTCGGTGGGACCCCCA
+>Homo_sapiens_chr6.trna42-GlnCTG ncrna Chromosome:NA trna42-GlnCTG gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna42-GlnCTG Homo_sapiens_chr6.trna42-GlnCTG (27263212-27263283)  Gln (CTG) 72 bp  Sc: 68.41
+GGTTCCATGGTGTAATGGTTAGCACTCTGGACTCTGAATCCGGTAATCCGAGTTCAAATCTCGGTGGAACCTCCA
+>Homo_sapiens_chr1.trna112-GlnCTG ncrna Chromosome:NA trna112-GlnCTG gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna112-GlnCTG Homo_sapiens_chr1.trna112-GlnCTG (147737453-147737382)  Gln (CTG) 72 bp  Sc: 68.84
+GGTTCCATGGTGTAATGGTAAGCACTCTGGACTCTGAATCCAGCGATCCGAGTTCGAGTCTCGGTGGAACCTCCA
+>Homo_sapiens_chr1.trna15-GlnCTG ncrna Chromosome:NA trna15-GlnCTG gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna15-GlnCTG Homo_sapiens_chr1.trna15-GlnCTG (145963304-145963375)  Gln (CTG) 72 bp  Sc: 70.16
+GGTTCCATGGTGTAATGGTGAGCACTCTGGACTCTGAATCCAGCGATCCGAGTTCGAGTCTCGGTGGAACCTCCA
+>Homo_sapiens_chr6.trna146-GlnCTG ncrna Chromosome:NA trna146-GlnCTG gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna146-GlnCTG Homo_sapiens_chr6.trna146-GlnCTG (27515602-27515531)  Gln (CTG) 72 bp  Sc: 72.00
+GGTTCCATGGTGTAATGGTTAGCACTCTGGACTCTGAATCCAGCGATCCGAGTTCAAGTCTCGGTGGAACCTCCA
+>Homo_sapiens_chr15.trna7-GlnCTG ncrna Chromosome:NA trna7-GlnCTG gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna7-GlnCTG Homo_sapiens_chr15.trna7-GlnCTG (66161471-66161400)  Gln (CTG) 72 bp  Sc: 73.65
+GGTTCCATGGTGTAATGGTTAGCACTCTGGACTCTGAATCCAGCGATCCGAGTTCAAATCTCGGTGGAACCTCCA
+>Homo_sapiens_chr6.trna84-GlnTTG ncrna Chromosome:NA trna84-GlnTTG gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna84-GlnTTG Homo_sapiens_chr6.trna84-GlnTTG (145503859-145503930)  Gln (TTG) 72 bp  Sc: 59.31
+GGTCCCATGGTGTAATGGTTAGCACTCTGGGCTTTGAATCCAGCAATCCGAGTTCGAATCTTGGTGGGACCTCCA
+>Homo_sapiens_chr6.trna130-GlnTTG ncrna Chromosome:NA trna130-GlnTTG gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna130-GlnTTG Homo_sapiens_chr6.trna130-GlnTTG (27763711-27763640)  Gln (TTG) 72 bp  Sc: 68.31
+GGCCCCATGGTGTAATGGTTAGCACTCTGGACTTTGAATCCAGCGATCCGAGTTCAAATCTCGGTGGGACCTCCA
+>Homo_sapiens_chr6.trna64-GlnTTG ncrna Chromosome:NA trna64-GlnTTG gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna64-GlnTTG Homo_sapiens_chr6.trna64-GlnTTG (28557156-28557227)  Gln (TTG) 72 bp  Sc: 71.88
+GGTCCCATGGTGTAATGGTTAGCACTCTGGACTTTGAATCCAGCAATCCGAGTTCGAATCTCGGTGGGACCTCCA
+>Homo_sapiens_chr17.trna16-GlnTTG ncrna Chromosome:NA trna16-GlnTTG gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna16-GlnTTG Homo_sapiens_chr17.trna16-GlnTTG (47269890-47269961)  Gln (TTG) 72 bp  Sc: 73.77
+GGTCCCATGGTGTAATGGTTAGCACTCTGGACTTTGAATCCAGCGATCCGAGTTCAAATCTCGGTGGGACCTCCA
+>Homo_sapiens_chr1.trna59-GluCTC ncrna Chromosome:NA trna59-GluCTC gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna59-GluCTC Homo_sapiens_chr1.trna59-GluCTC (249168447-249168518)  Glu (CTC) 72 bp  Sc: 71.50
+TCCCTGGTGGTCTAGTGGTTAGGATTCGGCGCTCTCACCGCCGCGGCCCGGGTTCGATTCCCGGTCAGGAAACCA
+>Homo_sapiens_chr1.trna116-GluCTC ncrna Chromosome:NA trna116-GluCTC gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna116-GluCTC Homo_sapiens_chr1.trna116-GluCTC (145399304-145399233)  Glu (CTC) 72 bp  Sc: 76.61
+TCCCTGGTGGTCTAGTGGTTAGGATTCGGCGCTCTCACCGCCGCGGCCCGGGTTCGATTCCCGGTCAGGGAACCA
+>Homo_sapiens_chr1.trna49-GluTTC ncrna Chromosome:NA trna49-GluTTC gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna49-GluTTC Homo_sapiens_chr1.trna49-GluTTC (161582508-161582579)  Glu (TTC) 72 bp  Sc: 54.07
+GCGTTGGTGGTGTAGTGGTGAGCACAGCTGCCTTTCAAGCAGTTAACGCGGGTTCGATTCCCGGGTAACGAACCA
+>Homo_sapiens_chr1.trna134-GluTTC ncrna Chromosome:NA trna134-GluTTC gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna134-GluTTC Homo_sapiens_chr1.trna134-GluTTC (16861845-16861774)  Glu (TTC) 72 bp  Sc: 72.33
+TCCCTGGTGGTCTAGTGGCTAGGATTCGGCGCTTTCACCGCCGCGGCCCGGGTTCGATTCCCGGTCAGGGAACCA
+>Homo_sapiens_chr1.trna5-GluTTC ncrna Chromosome:NA trna5-GluTTC gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna5-GluTTC Homo_sapiens_chr1.trna5-GluTTC (17199078-17199149)  Glu (TTC) 72 bp  Sc: 75.96
+TCCCTGGTGGTCTAGTGGCTAGGATTCGGCGCTTTCACCGCCGCGGCCCGGGTTCGATTCCCGGCCAGGGAACCA
+>Homo_sapiens_chr13.trna3-GluTTC ncrna Chromosome:NA trna3-GluTTC gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna3-GluTTC Homo_sapiens_chr13.trna3-GluTTC (45492133-45492062)  Glu (TTC) 72 bp  Sc: 76.26
+TCCCACATGGTCTAGCGGTTAGGATTCCTGGTTTTCACCCAGGCGGCCCGGGTTCGACTCCCGGTGTGGGAACCA
+>Homo_sapiens_chr13.trna5-GluTTC ncrna Chromosome:NA trna5-GluTTC gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna5-GluTTC Homo_sapiens_chr13.trna5-GluTTC (41634945-41634874)  Glu (TTC) 72 bp  Sc: 76.46
+TCCCATATGGTCTAGCGGTTAGGATTCCTGGTTTTCACCCAGGTGGCCCGGGTTCGACTCCCGGTATGGGAACCA
+>Homo_sapiens_chr1.trna2-GlyCCC ncrna Chromosome:NA trna2-GlyCCC gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna2-GlyCCC Homo_sapiens_chr1.trna2-GlyCCC (17053780-17053850)  Gly (CCC) 71 bp  Sc: 63.06
+GCCTTGGTGGTGCAGTGGTAGAATTCTCGCCTCCCACGTGGGAGACCCGGGTTCAATTCCCGGCCAATGCACCA
+>Homo_sapiens_chr1.trna131-GlyCCC ncrna Chromosome:NA trna131-GlyCCC gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna131-GlyCCC Homo_sapiens_chr1.trna131-GlyCCC (17004836-17004766)  Gly (CCC) 71 bp  Sc: 69.75
+GCGTTGGTGGTTTAGTGGTAGAATTCTCGCCTCCCATGCGGGAGACCCGGGTTCAATTCCCGGCCACTGCACCA
+>Homo_sapiens_chr17.trna13-GlyCCC ncrna Chromosome:NA trna13-GlyCCC gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna13-GlyCCC Homo_sapiens_chr17.trna13-GlyCCC (19764175-19764245)  Gly (CCC) 71 bp  Sc: 70.13
+GCATTGGTGGTTCAATGGTAGAATTCTCGCCTCCCACGCAGGAGACCCAGGTTCGATTCCTGGCCAATGCACCA
+>Homo_sapiens_chr16.trna34-GlyCCC ncrna Chromosome:NA trna34-GlyCCC gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna34-GlyCCC Homo_sapiens_chr16.trna34-GlyCCC (686806-686736)  Gly (CCC) 71 bp  Sc: 76.98
+GCGCCGCTGGTGTAGTGGTATCATGCAAGATTCCCATTCTTGCGACCCGGGTTCGATTCCCGGGCGGCGCACCA
+>Homo_sapiens_chr1.trna133-GlyCCC ncrna Chromosome:NA trna133-GlyCCC gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna133-GlyCCC Homo_sapiens_chr1.trna133-GlyCCC (16872504-16872434)  Gly (CCC) 71 bp  Sc: 78.31
+GCATTGGTGGTTCAGTGGTAGAATTCTCGCCTCCCACGCGGGAGACCCGGGTTCAATTCCCGGCCAATGCACCA
+>Homo_sapiens_chr16.trna18-GlyGCC ncrna Chromosome:NA trna18-GlyGCC gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna18-GlyGCC Homo_sapiens_chr16.trna18-GlyGCC (70822597-70822667)  Gly (GCC) 71 bp  Sc: 56.35
+GCATTGGTGGTTCAGTGGTAGAATTCTCGCCTGCCATGCGGGCGGCCGGGCTTCGATTCCTGGCCAATGCACCA
+>Homo_sapiens_chr1.trna43-GlyGCC ncrna Chromosome:NA trna43-GlyGCC gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna43-GlyGCC Homo_sapiens_chr1.trna43-GlyGCC (161450356-161450426)  Gly (GCC) 71 bp  Sc: 69.02
+GCATAGGTGGTTCAGTGGTAGAATTCTTGCCTGCCACGCAGGAGGCCCAGGTTTGATTCCTGGCCCATGCACCA
+>Homo_sapiens_chr16.trna25-GlyGCC ncrna Chromosome:NA trna25-GlyGCC gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna25-GlyGCC Homo_sapiens_chr16.trna25-GlyGCC (70812184-70812114)  Gly (GCC) 71 bp  Sc: 73.97
+GCATTGGTGGTTCAGTGGTAGAATTCTCGCCTGCCACGCGGGAGGCCCGGGTTTGATTCCCGGCCAGTGCACCA
+>Homo_sapiens_chr1.trna68-GlyGCC ncrna Chromosome:NA trna68-GlyGCC gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna68-GlyGCC Homo_sapiens_chr1.trna68-GlyGCC (161493707-161493637)  Gly (GCC) 71 bp  Sc: 81.62
+GCATTGGTGGTTCAGTGGTAGAATTCTCGCCTGCCACGCGGGAGGCCCGGGTTCGATTCCCGGCCAATGCACCA
+>Homo_sapiens_chr1.trna35-GlyGCC ncrna Chromosome:NA trna35-GlyGCC gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna35-GlyGCC Homo_sapiens_chr1.trna35-GlyGCC (161413094-161413164)  Gly (GCC) 71 bp  Sc: 82.15
+GCATGGGTGGTTCAGTGGTAGAATTCTCGCCTGCCACGCGGGAGGCCCGGGTTCGATTCCCGGCCCATGCACCA
+>Homo_sapiens_chr1.trna82-GlyTCC ncrna Chromosome:NA trna82-GlyTCC gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna82-GlyTCC Homo_sapiens_chr1.trna82-GlyTCC (161410032-161409961)  Gly (TCC) 72 bp  Sc: 55.96
+GCGTTGGTGGTATAGTGGTGAGCATAGTTGCCTTCCAAGCAGTTGACCCGGGCTCGATTCCCGCCCAACGCACCA
+>Homo_sapiens_chr17.trna10-GlyTCC ncrna Chromosome:NA trna10-GlyTCC gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna10-GlyTCC Homo_sapiens_chr17.trna10-GlyTCC (8124866-8124937)  Gly (TCC) 72 bp  Sc: 71.94
+GCGTTGGTGGTATAGTGGTAAGCATAGCTGCCTTCCAAGCAGTTGACCCGGGTTCGATTCCCGGCCAACGCACCA
+>Homo_sapiens_chr1.trna117-GlyTCC ncrna Chromosome:NA trna117-GlyTCC gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna117-GlyTCC Homo_sapiens_chr1.trna117-GlyTCC (145397935-145397864)  Gly (TCC) 72 bp  Sc: 73.26
+GCGTTGGTGGTATAGTGGTGAGCATAGCTGCCTTCCAAGCAGTTGACCCGGGTTCGATTCCCGGCCAACGCACCA
+>Homo_sapiens_chr19.trna2-GlyTCC ncrna Chromosome:NA trna2-GlyTCC gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna2-GlyTCC Homo_sapiens_chr19.trna2-GlyTCC (4724082-4724153)  Gly (TCC) 72 bp  Sc: 76.83
+GCGTTGGTGGTATAGTGGTTAGCATAGCTGCCTTCCAAGCAGTTGACCCGGGTTCGATTCCCGGCCAACGCACCA
+>Homo_sapiens_chr1.trna106-HisGTG ncrna Chromosome:NA trna106-HisGTG gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna106-HisGTG Homo_sapiens_chr1.trna106-HisGTG (149155899-149155828)  His (GTG) 72 bp  Sc: 61.09
+GCCATGATCGTATAGTGGTTAGTACTCTGCGCTGTGGCCGCAGCAACCTCGGTTCGAATCCGAGTCACGGCACCA
+>Homo_sapiens_chr1.trna111-HisGTG ncrna Chromosome:NA trna111-HisGTG gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna111-HisGTG Homo_sapiens_chr1.trna111-HisGTG (147774916-147774845)  His (GTG) 72 bp  Sc: 64.63
+GCCGTGATCGTATAGTGGTTAGTACTCTGCGTTGTGGCCGCAGCAACCTCGGTTCGAATCCGAGTCACGGCACCA
+>Homo_sapiens_chr6.trna38-IleAAT ncrna Chromosome:NA trna38-IleAAT gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna38-IleAAT Homo_sapiens_chr6.trna38-IleAAT (27241739-27241812)  Ile (AAT) 74 bp  Sc: 75.35
+GGCTGGTTAGTTCAGTTGGTTAGAGCGTGGTGCTAATAACGCCAAGGTCGTGGGTTCGATCCCCATATCGGCCACCA
+>Homo_sapiens_chr6.trna57-IleAAT ncrna Chromosome:NA trna57-IleAAT gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna57-IleAAT Homo_sapiens_chr6.trna57-IleAAT (27636362-27636435)  Ile (AAT) 74 bp  Sc: 76.09
+GGCCGGTTAGCTCAGTCGGCTAGAGCGTGGTGCTAATAACGCCAAGGTCGCGGGTTCGATCCCCGTACGGGCCACCA
+>Homo_sapiens_chr6.trna165-IleAAT ncrna Chromosome:NA trna165-IleAAT gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna165-IleAAT Homo_sapiens_chr6.trna165-IleAAT (26721294-26721221)  Ile (AAT) 74 bp  Sc: 78.57
+GGCCGGTTAGCTCAGTTGGTCAGAGCGTGGTGCTAATAACGCCAAGGTCGCGGGTTCGATCCCCGTACGGGCCACCA
+>Homo_sapiens_chr6.trna163-IleAAT ncrna Chromosome:NA trna163-IleAAT gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna163-IleAAT Homo_sapiens_chr6.trna163-IleAAT (26745328-26745255)  Ile (AAT) 74 bp  Sc: 79.57
+GGCCGGTTAGCTCAGTTGGTTAGAGCGTGGTGCTAATAACGCTAAGGTCGCGGGTTCGATCCCCGTACTGGCCACCA
+>Homo_sapiens_chr14.trna10-IleAAT ncrna Chromosome:NA trna10-IleAAT gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna10-IleAAT Homo_sapiens_chr14.trna10-IleAAT (102783429-102783502)  Ile (AAT) 74 bp  Sc: 80.66
+GGCCGGTTAGCTCAGTTGGTTAGAGCGTGGTGCTAATAACGCCAAGGTCGCGGGTTCGATCCCCGTACGGGCCACCA
+>Homo_sapiens_chr17.trna34-IleAAT ncrna Chromosome:NA trna34-IleAAT gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna34-IleAAT Homo_sapiens_chr17.trna34-IleAAT (8130382-8130309)  Ile (AAT) 74 bp  Sc: 80.89
+GGCCGGTTAGCTCAGTTGGTTAGAGCGTGGTGCTAATAACGCCAAGGTCGCGGGTTCGAACCCCGTACGGGCCACCA
+>Homo_sapiens_chr6.trna153-IleAAT ncrna Chromosome:NA trna153-IleAAT gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna153-IleAAT Homo_sapiens_chr6.trna153-IleAAT (27243063-27242990)  Ile (AAT) 74 bp  Sc: 82.10
+GGCTGGTTAGCTCAGTTGGTTAGAGCGTGGTGCTAATAACGCCAAGGTCGCGGGTTCGATCCCCGTACTGGCCACCA
+>Homo_sapiens_chr6.trna59-IleAAT ncrna Chromosome:NA trna59-IleAAT gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna59-IleAAT Homo_sapiens_chr6.trna59-IleAAT (27655967-27656040)  Ile (AAT) 74 bp  Sc: 83.32
+GGCCGGTTAGCTCAGTTGGTTAGAGCGTGGTGCTAATAACGCCAAGGTCGCGGGTTCGATCCCCGTACTGGCCACCA
+>Homo_sapiens_chr6.trna80-IleAAT ncrna Chromosome:NA trna80-IleAAT gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna80-IleAAT Homo_sapiens_chr6.trna80-IleAAT (58149254-58149327)  Ile (AAT) 74 bp  Sc: 83.55
+GGCCGGTTAGCTCAGTTGGTTAGAGCGTGGCGCTAATAACGCCAAGGTCGCGGGTTCGATCCCCGTACGGGCCACCA
+>Homo_sapiens_chrX.trna5-IleGAT ncrna Chromosome:NA trna5-IleGAT gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna5-IleGAT Homo_sapiens_chrX.trna5-IleGAT (3833344-3833271)  Ile (GAT) 74 bp  Sc: 72.42
+GGCCGGTTAGCTCAGTTGGTAAGAGCGTGGTGCTGATAACACCAAGGTCGCGGGCTCGACTCCCGCACCGGCCACCA
+>Homo_sapiens_chr6.trna29-IleTAT ncrna Chromosome:NA trna29-IleTAT gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna29-IleTAT Homo_sapiens_chr6.trna29-IleTAT (26988125-26988218)  Ile (TAT) 74 bp  Sc: 67.58
+GCTCCAGTGGCGCAATCGGTTAGCGCGCGGTACTTATAATGCCGAGGTTGTGAGTTCGAGCCTCACCTGGAGCACCA
+>Homo_sapiens_chr6.trna55-IleTAT ncrna Chromosome:NA trna55-IleTAT gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna55-IleTAT Homo_sapiens_chr6.trna55-IleTAT (27599200-27599293)  Ile (TAT) 74 bp  Sc: 68.23
+GCTCCAGTGGCGCAATCGGTTAGCGCGCGGTACTTATAATGCCGAGGTTGTGAGTTCGAGCCTCACCTGGAGCACCA
+>Homo_sapiens_chr6.trna63-IleTAT ncrna Chromosome:NA trna63-IleTAT gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna63-IleTAT Homo_sapiens_chr6.trna63-IleTAT (28505367-28505460)  Ile (TAT) 74 bp  Sc: 65.86
+GCTCCAGTGGCGCAATCGGTTAGCGCGCGGTACTTATAATGCCGAGGTTGTGAGTTCAAGCCTCACCTGGAGCACCA
+>Homo_sapiens_chr19.trna10-IleTAT ncrna Chromosome:NA trna10-IleTAT gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna10-IleTAT Homo_sapiens_chr19.trna10-IleTAT (39902900-39902808)  Ile (TAT) 74 bp  Sc: 68.39
+GCTCCAGTGGCGCAATCGGTTAGCGCGCGGTACTTATAATGCCGAGGTTGTGAGTTCGATCCTCACCTGGAGCACCA
+>Homo_sapiens_chr2.trna5-IleTAT ncrna Chromosome:NA trna5-IleTAT gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna5-IleTAT Homo_sapiens_chr2.trna5-IleTAT (43037676-43037768)  Ile (TAT) 74 bp  Sc: 68.11
+GCTCCAGTGGCGCAATCGGTTAGCGCGCGGTACTTATAATGCCGAGGTTGTGAGTTCGAGCCTCACCTGGAGCACCA
+>Homo_sapiens_chr6.trna126-LeuAAG ncrna Chromosome:NA trna126-LeuAAG gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna126-LeuAAG Homo_sapiens_chr6.trna126-LeuAAG (28446481-28446400)  Leu (AAG) 82 bp  Sc: 59.09
+GGTAGCGTGGCCGAGTGGTCTAAGACGCTGGATTAAGGCTCCAGTCTCTTCGGGGGCGTGGGTTTGAATCCCACCGCTGCCACCA
+>Homo_sapiens_chr6.trna78-LeuAAG ncrna Chromosome:NA trna78-LeuAAG gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna78-LeuAAG Homo_sapiens_chr6.trna78-LeuAAG (28956779-28956860)  Leu (AAG) 82 bp  Sc: 68.10
+GGTAGCGTGGCCGAGCGGTCTAAGGCGCTGGATTAAGGCTCCAGTCTCTTCGGGGGCGTGGGTTCAAATCCCACCGCTGCCACCA
+>Homo_sapiens_chr14.trna1-LeuAAG ncrna Chromosome:NA trna1-LeuAAG gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna1-LeuAAG Homo_sapiens_chr14.trna1-LeuAAG (21078291-21078372)  Leu (AAG) 82 bp  Sc: 69.84
+GGTAGCGTGGCCGAGCGGTCTAAGGCGCTGGATTAAGGCTCCAGTCTCTTCGGGGGCGTGGGTTCGAATCCCACCGCTGCCACCA
+>Homo_sapiens_chr5.trna16-LeuAAG ncrna Chromosome:NA trna16-LeuAAG gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna16-LeuAAG Homo_sapiens_chr5.trna16-LeuAAG (180601125-180601044)  Leu (AAG) 82 bp  Sc: 71.96
+GGTAGCGTGGCCGAGCGGTCTAAGGCGCTGGATTAAGGCTCCAGTCTCTTCGGAGGCGTGGGTTCGAATCCCACCGCTGCCACCA
+>Homo_sapiens_chr1.trna66-LeuCAA ncrna Chromosome:NA trna66-LeuCAA gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna66-LeuCAA Homo_sapiens_chr1.trna66-LeuCAA (161581819-161581736)  Leu (CAA) 84 bp  Sc: 59.01
+GTCAGGATGGCCGAGCAGTCTTAAGGCGCTGCGTTCAAATCGCACCCTCCGCTGGAGGCGTGGGTTCGAATCCCACTTTTGACACCA
+>Homo_sapiens_chr11.trna1-LeuCAA ncrna Chromosome:NA trna1-LeuCAA gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna1-LeuCAA Homo_sapiens_chr11.trna1-LeuCAA (9296790-9296863)  Leu (CAA) 74 bp  Sc: 60.99
+GCCTCCTTAGTGCAGTAGGTAGCGCATCAGTCTCAAAATCTGAATGGTCCTGAGTTCAAGCCTCAGAGGGGGCACCA
+>Homo_sapiens_chr1.trna58-LeuCAA ncrna Chromosome:NA trna58-LeuCAA gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna58-LeuCAA Homo_sapiens_chr1.trna58-LeuCAA (249168054-249168159)  Leu (CAA) 84 bp  Sc: 65.69
+GTCAGGATGGCCGAGTGGTCTAAGGCGCCAGACTCAAGTTCTGGTCTCCGGATGGAGGCGTGGGTTCGAATCCCACTTCTGACACCA
+>Homo_sapiens_chr6.trna141-LeuCAA ncrna Chromosome:NA trna141-LeuCAA gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna141-LeuCAA Homo_sapiens_chr6.trna141-LeuCAA (27570454-27570348)  Leu (CAA) 84 bp  Sc: 68.19
+GTCAGGATGGCCGAGTGGTCTAAGGCGCCAGACTCAAGTTCTGGTCTCCGCATGGAGGCGTGGGTTCGAATCCCACTTCTGACACCA
+>Homo_sapiens_chr6.trna140-LeuCAA ncrna Chromosome:NA trna140-LeuCAA gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna140-LeuCAA Homo_sapiens_chr6.trna140-LeuCAA (27573524-27573417)  Leu (CAA) 84 bp  Sc: 68.53
+GTCAGGATGGCCGAGTGGTCTAAGGCGCCAGACTCAAGTTCTGGTCTCCGTATGGAGGCGTGGGTTCGAATCCCACTTCTGACACCA
+>Homo_sapiens_chr6.trna100-LeuCAA ncrna Chromosome:NA trna100-LeuCAA gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna100-LeuCAA Homo_sapiens_chr6.trna100-LeuCAA (28864105-28864000)  Leu (CAA) 83 bp  Sc: 68.23
+GTCAGGATGGCCGAGTGGTCTAAGGCGCCAGACTCAAGTTCTGGTCTCCAATGGAGGCGTGGGTTCGAATCCCACTTCTGACACCA
+>Homo_sapiens_chr6.trna74-LeuCAA ncrna Chromosome:NA trna74-LeuCAA gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna74-LeuCAA Homo_sapiens_chr6.trna74-LeuCAA (28908830-28908934)  Leu (CAA) 83 bp  Sc: 69.73
+GTCAGGATGGCCGAGTGGTCTAAGGCGCCAGACTCAAGTTCTGGTCTCCAATGGAGGCGTGGGTTCGAATCCCACTTCTGACACCA
+>Homo_sapiens_chr16.trna17-LeuCAG ncrna Chromosome:NA trna17-LeuCAG gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna17-LeuCAG Homo_sapiens_chr16.trna17-LeuCAG (57333863-57333945)  Leu (CAG) 83 bp  Sc: 75.90
+GTCAGGATGGCCGAGCGGTCTAAGGCGCTGCGTTCAGGTCGCAGTCTCCCCTGGAGGCGTGGGTTCGAATCCCACTTCTGACACCA
+>Homo_sapiens_chr1.trna34-LeuCAG ncrna Chromosome:NA trna34-LeuCAG gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna34-LeuCAG Homo_sapiens_chr1.trna34-LeuCAG (161411323-161411405)  Leu (CAG) 83 bp  Sc: 77.22
+GTCAGGATGGCCGAGCGGTCTAAGGCGCTGCGTTCAGGTCGCAGTCTCCCCTGGAGGCGTGGGTTCGAATCCCACTCCTGACACCA
+>Homo_sapiens_chr4.trna2-LeuTAA ncrna Chromosome:NA trna2-LeuTAA gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna2-LeuTAA Homo_sapiens_chr4.trna2-LeuTAA (156385052-156384978)  Leu (TAA) 75 bp  Sc: 48.70
+GTTAAGATGGCAGAGCCTGGTAATTGCATAAAACTTAAAATTTTATAATCAGAGGTTCAACTCCTCTTCTTAACACCA
+>Homo_sapiens_chr6.trna155-LeuTAA ncrna Chromosome:NA trna155-LeuTAA gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna155-LeuTAA Homo_sapiens_chr6.trna155-LeuTAA (27198416-27198334)  Leu (TAA) 83 bp  Sc: 74.34
+ACCGGGATGGCTGAGTGGTTAAGGCGTTGGACTTAAGATCCAATGGACAGGTGTCCGCGTGGGTTCGAGCCCCACTCCCGGTACCA
+>Homo_sapiens_chr11.trna4-LeuTAA ncrna Chromosome:NA trna4-LeuTAA gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna4-LeuTAA Homo_sapiens_chr11.trna4-LeuTAA (59319228-59319310)  Leu (TAA) 83 bp  Sc: 79.52
+ACCAGAATGGCCGAGTGGTTAAGGCGTTGGACTTAAGATCCAATGGATTCATATCCGCGTGGGTTCGAACCCCACTTCTGGTACCA
+>Homo_sapiens_chr6.trna134-LeuTAA ncrna Chromosome:NA trna134-LeuTAA gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna134-LeuTAA Homo_sapiens_chr6.trna134-LeuTAA (27688980-27688898)  Leu (TAA) 83 bp  Sc: 80.48
+ACCGGGATGGCCGAGTGGTTAAGGCGTTGGACTTAAGATCCAATGGGCTGGTGCCCGCGTGGGTTCGAACCCCACTCTCGGTACCA
+>Homo_sapiens_chr6.trna83-LeuTAA ncrna Chromosome:NA trna83-LeuTAA gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna83-LeuTAA Homo_sapiens_chr6.trna83-LeuTAA (144537684-144537766)  Leu (TAA) 83 bp  Sc: 80.77
+ACCAGGATGGCCGAGTGGTTAAGGCGTTGGACTTAAGATCCAATGGACATATGTCCGCGTGGGTTCGAACCCCACTCCTGGTACCA
+>Homo_sapiens_chr16.trna27-LeuTAG ncrna Chromosome:NA trna27-LeuTAG gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna27-LeuTAG Homo_sapiens_chr16.trna27-LeuTAG (22207113-22207032)  Leu (TAG) 82 bp  Sc: 68.14
+GGTAGCGTGGCCGAGTGGTCTAAGGCGCTGGATTTAGGCTCCAGTCATTTCGATGGCGTGGGTTCGAATCCCACCGCTGCCACCA
+>Homo_sapiens_chr14.trna2-LeuTAG ncrna Chromosome:NA trna2-LeuTAG gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna2-LeuTAG Homo_sapiens_chr14.trna2-LeuTAG (21093529-21093610)  Leu (TAG) 82 bp  Sc: 68.82
+GGTAGTGTGGCCGAGCGGTCTAAGGCGCTGGATTTAGGCTCCAGTCTCTTCGGGGGCGTGGGTTCGAATCCCACCACTGCCACCA
+>Homo_sapiens_chr17.trna42-LeuTAG ncrna Chromosome:NA trna42-LeuTAG gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna42-LeuTAG Homo_sapiens_chr17.trna42-LeuTAG (8023713-8023632)  Leu (TAG) 82 bp  Sc: 72.19
+GGTAGCGTGGCCGAGCGGTCTAAGGCGCTGGATTTAGGCTCCAGTCTCTTCGGAGGCGTGGGTTCGAATCCCACCGCTGCCACCA
+>Homo_sapiens_chr19.trna6-LysCTT ncrna Chromosome:NA trna6-LysCTT gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna6-LysCTT Homo_sapiens_chr19.trna6-LysCTT (52425468-52425396)  Lys (CTT) 73 bp  Sc: 51.97
+CTGCAGCTAGCTCAGTCGGTAGAGCATGAGACTCTTAATCTCAGGGTCATGGGTTCGTGCCCCATGTTGGGTGCCA
+>Homo_sapiens_chr19.trna5-LysCTT ncrna Chromosome:NA trna5-LysCTT gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna5-LysCTT Homo_sapiens_chr19.trna5-LysCTT (36066750-36066822)  Lys (CTT) 73 bp  Sc: 52.67
+GCCCAGCTAGCTCAGTCGGTAGAGCATAAGACTCTTAATCTCAGGGTTGTGGATTCGTGCCCCATGCTGGGTGCCA
+>Homo_sapiens_chr5.trna24-LysCTT ncrna Chromosome:NA trna24-LysCTT gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna24-LysCTT Homo_sapiens_chr5.trna24-LysCTT (26198611-26198539)  Lys (CTT) 73 bp  Sc: 53.34
+GCCCGACTACCTCAGTCGGTGGAGCATGGGACTCTTCATCCCAGGGTTGTGGGTTCGAGCCCCACATTGGGCACCA
+>Homo_sapiens_chr16.trna5-LysCTT ncrna Chromosome:NA trna5-LysCTT gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna5-LysCTT Homo_sapiens_chr16.trna5-LysCTT (3214939-3215011)  Lys (CTT) 73 bp  Sc: 54.80
+GCCTGGCTAGCTCAGTCGGCAAAGCATGAGACTCTTAATCTCAGGGTCGTGGGCTCGAGCTCCATGTTGGGCGCCA
+>Homo_sapiens_chr1.trna128-LysCTT ncrna Chromosome:NA trna128-LysCTT gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna128-LysCTT Homo_sapiens_chr1.trna128-LysCTT (55423614-55423542)  Lys (CTT) 73 bp  Sc: 58.75
+GCCCAGCTAGCTCAGTCGGTAGAGCATGAGACTCTTAATCTCAGGGTCATGGGTTTGAGCCCCACGTTTGGTGCCA
+>Homo_sapiens_chr18.trna4-LysCTT ncrna Chromosome:NA trna4-LysCTT gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna4-LysCTT Homo_sapiens_chr18.trna4-LysCTT (43669343-43669271)  Lys (CTT) 73 bp  Sc: 60.42
+GACGAGCTAGCTCAGTCGGTAGAGCATGGGACTCTTAATCCCAGGGTCGTGGGTTTGAGCCCCATGTTGGGCACCA
+>Homo_sapiens_chr16.trna30-LysCTT ncrna Chromosome:NA trna30-LysCTT gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna30-LysCTT Homo_sapiens_chr16.trna30-LysCTT (3230627-3230555)  Lys (CTT) 73 bp  Sc: 64.91
+GCCCGGCTAGCTCAGTCGATAGAGCATGAGACTCTTAATCTCAGGGTCGTGGGTTCGAGCCGCACGTTGGGCGCCA
+>Homo_sapiens_chr16.trna10-LysCTT ncrna Chromosome:NA trna10-LysCTT gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna10-LysCTT Homo_sapiens_chr16.trna10-LysCTT (3241501-3241573)  Lys (CTT) 73 bp  Sc: 74.61
+GCCCGGCTAGCTCAGTCGGTAGAGCATGGGACTCTTAATCTCAGGGTCGTGGGTTCGAGCCCCACGTTGGGCGCCA
+>Homo_sapiens_chr16.trna32-LysCTT ncrna Chromosome:NA trna32-LysCTT gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna32-LysCTT Homo_sapiens_chr16.trna32-LysCTT (3207478-3207406)  Lys (CTT) 73 bp  Sc: 76.19
+GCCCGGCTAGCTCAGTCGGTAGAGCATGAGACCCTTAATCTCAGGGTCGTGGGTTCGAGCCCCACGTTGGGCGCCA
+>Homo_sapiens_chr1.trna119-LysCTT ncrna Chromosome:NA trna119-LysCTT gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna119-LysCTT Homo_sapiens_chr1.trna119-LysCTT (145395594-145395522)  Lys (CTT) 73 bp  Sc: 80.47
+GCCCGGCTAGCTCAGTCGGTAGAGCATGAGACTCTTAATCTCAGGGTCGTGGGTTCGAGCCCCACGTTGGGCGCCA
+>Homo_sapiens_chr14.trna13-LysCTT ncrna Chromosome:NA trna13-LysCTT gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna13-LysCTT Homo_sapiens_chr14.trna13-LysCTT (58706685-58706613)  Lys (CTT) 73 bp  Sc: 80.72
+GCCCGGCTAGCTCAGTCGGTAGAGCATGGGACTCTTAATCCCAGGGTCGTGGGTTCGAGCCCCACGTTGGGCGCCA
+>Homo_sapiens_chr19.trna7-LysTTT ncrna Chromosome:NA trna7-LysTTT gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna7-LysTTT Homo_sapiens_chr19.trna7-LysTTT (50038005-50037933)  Lys (TTT) 73 bp  Sc: 48.15
+ACCTGGGTAGCTTAGTTGGTAGAGCATTGGACTTTTAATTTGAGGGCCCAGGTTTCAAGTCCCTGTTTGGGTGCCA
+>Homo_sapiens_chr12.trna1-LysTTT ncrna Chromosome:NA trna1-LysTTT gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna1-LysTTT Homo_sapiens_chr12.trna1-LysTTT (27843306-27843378)  Lys (TTT) 73 bp  Sc: 49.92
+ACCCAGATAGCTCAGTCAGTAGAGCATCAGACTTTTAATCTGAGGGTCCAAGGTTCATGTCCCTTTTTGGGTGCCA
+>Homo_sapiens_chr6.trna53-LysTTT ncrna Chromosome:NA trna53-LysTTT gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna53-LysTTT Homo_sapiens_chr6.trna53-LysTTT (27543846-27543918)  Lys (TTT) 73 bp  Sc: 59.40
+ACCTGGGTAGCTCAGTAGGTAGAACATCAGACTTTTAATCTGAGGGTCTAGGGTTCAAGTCCCTGTCCAGGCGCCA
+>Homo_sapiens_chr1.trna55-LysTTT ncrna Chromosome:NA trna55-LysTTT gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna55-LysTTT Homo_sapiens_chr1.trna55-LysTTT (205443271-205443343)  Lys (TTT) 73 bp  Sc: 62.89
+GCCCGGAGAGCTCAGTGGGTAGAGCATCAGACTTTTAATCTGAGGGTCCAGGGTTCAAGTCCTCGTTCGGGCACCA
+>Homo_sapiens_chr6.trna71-LysTTT ncrna Chromosome:NA trna71-LysTTT gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna71-LysTTT Homo_sapiens_chr6.trna71-LysTTT (28715521-28715593)  Lys (TTT) 73 bp  Sc: 72.00
+GCCTGGATAGCTCAGTTGGTAGAACATCAGACTTTTAATCTGACGGTGCAGGGTTCAAGTCCCTGTTCAGGCGCCA
+>Homo_sapiens_chr6.trna149-LysTTT ncrna Chromosome:NA trna149-LysTTT gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna149-LysTTT Homo_sapiens_chr6.trna149-LysTTT (27302841-27302769)  Lys (TTT) 73 bp  Sc: 81.41
+GCCTGGGTAGCTCAGTCGGTAGAGCATCAGACTTTTAATCTGAGGGTCCAGGGTTCAAGTCCCTGTCCAGGCGCCA
+>Homo_sapiens_chr11.trna5-LysTTT ncrna Chromosome:NA trna5-LysTTT gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna5-LysTTT Homo_sapiens_chr11.trna5-LysTTT (59323902-59323974)  Lys (TTT) 73 bp  Sc: 82.14
+GCCCGGATAGCTCAGTCGGTAGAGCATCAGACTTTTAATCTGAGGGTCCGGGGTTCAAGTCCCTGTTCGGGCGCCA
+>Homo_sapiens_chr6.trna143-LysTTT ncrna Chromosome:NA trna143-LysTTT gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna143-LysTTT Homo_sapiens_chr6.trna143-LysTTT (27559665-27559593)  Lys (TTT) 73 bp  Sc: 83.31
+GCCTGGATAGCTCAGTCGGTAGAGCATCAGACTTTTAATCTGAGGGTCCAGGGTTCAAGTCCCTGTTCAGGCGCCA
+>Homo_sapiens_chr1.trna54-LysTTT ncrna Chromosome:NA trna54-LysTTT gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna54-LysTTT Homo_sapiens_chr1.trna54-LysTTT (204475655-204475727)  Lys (TTT) 73 bp  Sc: 83.80
+GCCCGGATAGCTCAGTCGGTAGAGCATCAGACTTTTAATCTGAGGGTCCAGGGTTCAAGTCCCTGTTCGGGCGCCA
+>Homo_sapiens_chr11.trna11-LysTTT ncrna Chromosome:NA trna11-LysTTT gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna11-LysTTT Homo_sapiens_chr11.trna11-LysTTT (122430655-122430727)  Lys (TTT) 73 bp  Sc: 83.96
+GCCTGGATAGCTCAGTTGGTAGAGCATCAGACTTTTAATCTGAGGGTCCAGGGTTCAAGTCCCTGTTCAGGCGCCA
+>Homo_sapiens_chr16.trna23-LysTTT ncrna Chromosome:NA trna23-LysTTT gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna23-LysTTT Homo_sapiens_chr16.trna23-LysTTT (73512288-73512216)  Lys (TTT) 73 bp  Sc: 84.43
+GCCTGGATAGCTCAGTTGGTAGAGCATCAGACTTTTAATCTGAGGGTCCAGGGTTCAAGTCCCTGTTCAGGCACCA
+>Homo_sapiens_chr6.trna61-MetCAT ncrna Chromosome:NA trna61-MetCAT gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna61-MetCAT Homo_sapiens_chr6.trna61-MetCAT (27745664-27745735)  Met (CAT) 72 bp  Sc: 62.43
+AGCAGAGTGGCGCAGCGGAAGCGTGCTGGGCCCATAACCCAGAGGTCGATGGATCTAAACCATCCTCTGCTACCA
+>Homo_sapiens_chr6.trna92-MetCAT ncrna Chromosome:NA trna92-MetCAT gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna92-MetCAT Homo_sapiens_chr6.trna92-MetCAT (58168564-58168492)  Met (CAT) 73 bp  Sc: 64.33
+GCCCTCTTAGTGCAGCTGGCAGCGCGTCAGTTTCATAATCTGAAAGTCCTGAGTTCAAGCCTCAGAGAGGGCACCA
+>Homo_sapiens_chr1.trna32-MetCAT ncrna Chromosome:NA trna32-MetCAT gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna32-MetCAT Homo_sapiens_chr1.trna32-MetCAT (153643726-153643797)  Met (CAT) 72 bp  Sc: 68.98
+AGCAGAGTGGCGCAGCGGAAGCGTGCTGGGCCCATAACCCAGAGGTCGATGGATCGAAACCATCCTCTGCTACCA
+>Homo_sapiens_chr16.trna22-MetCAT ncrna Chromosome:NA trna22-MetCAT gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna22-MetCAT Homo_sapiens_chr16.trna22-MetCAT (87417700-87417628)  Met (CAT) 73 bp  Sc: 74.51
+GCCTCGTTAGCGCAGTAGGCAGCGCGTCAGTCTCATAATCTGAAGGTCGTGAGTTCGAGCCTCACACGGGGCACCA
+>Homo_sapiens_chr6.trna21-MetCAT ncrna Chromosome:NA trna21-MetCAT gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna21-MetCAT Homo_sapiens_chr6.trna21-MetCAT (26701712-26701784)  Met (CAT) 73 bp  Sc: 75.06
+GCCCTCTTAGCGCAGCTGGCAGCGCGTCAGTCTCATAATCTGAAGGTCCTGAGTTCAAGCCTCAGAGAGGGCACCA
+>Homo_sapiens_chr6.trna162-MetCAT ncrna Chromosome:NA trna162-MetCAT gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna162-MetCAT Homo_sapiens_chr6.trna162-MetCAT (26758622-26758550)  Met (CAT) 73 bp  Sc: 75.76
+GCCCTCTTAGCGCAGCGGGCAGCGCGTCAGTCTCATAATCTGAAGGTCCTGAGTTCGAGCCTCAGAGAGGGCACCA
+>Homo_sapiens_chr6.trna75-MetCAT ncrna Chromosome:NA trna75-MetCAT gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna75-MetCAT Homo_sapiens_chr6.trna75-MetCAT (28912352-28912424)  Met (CAT) 73 bp  Sc: 76.58
+GCCTCCTTAGCGCAGTAGGCAGCGCGTCAGTCTCATAATCTGAAGGTCCTGAGTTCGAACCTCAGAGGGGGCACCA
+>Homo_sapiens_chr16.trna20-MetCAT ncrna Chromosome:NA trna20-MetCAT gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna20-MetCAT Homo_sapiens_chr16.trna20-MetCAT (71460396-71460468)  Met (CAT) 73 bp  Sc: 78.21
+GCCCTCTTAGCGCAGTGGGCAGCGCGTCAGTCTCATAATCTGAAGGTCCTGAGTTCGAGCCTCAGAGAGGGCACCA
+>Homo_sapiens_chr8.trna10-MetCAT ncrna Chromosome:NA trna10-MetCAT gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna10-MetCAT Homo_sapiens_chr8.trna10-MetCAT (124169542-124169470)  Met (CAT) 73 bp  Sc: 79.85
+GCCTCGTTAGCGCAGTAGGTAGCGCGTCAGTCTCATAATCTGAAGGTCGTGAGTTCGATCCTCACACGGGGCACCA
+>Homo_sapiens_chr6.trna56-PheGAA ncrna Chromosome:NA trna56-PheGAA gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna56-PheGAA Homo_sapiens_chr6.trna56-PheGAA (27632545-27632620)  Phe (GAA) 76 bp  Sc: 53.54
+GCCGAAATAGCTCAATTGGGAGAGTGTTAGACTGAAGATCTTCTGCAGGTCTCTGGTTCAATTCCGGGTTTCGACACCA
+>Homo_sapiens_chr6.trna112-PheGAA ncrna Chromosome:NA trna112-PheGAA gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna112-PheGAA Homo_sapiens_chr6.trna112-PheGAA (28731447-28731374)  Phe (GAA) 74 bp  Sc: 56.32
+GCTGAAATAGCTCAGTTGGGAGAGCGTTAGACTGAAGATCTTAAAGTTCCCTGGTTCAACCCTGGGTTTCAGCCCCA
+>Homo_sapiens_chr6.trna72-PheGAA ncrna Chromosome:NA trna72-PheGAA gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna72-PheGAA Homo_sapiens_chr6.trna72-PheGAA (28732164-28732236)  Phe (GAA) 73 bp  Sc: 59.98
+GCCAAAATTGCTCAGTTGGGAGAGCGTTAGACTGAAGATCTAAAGGTCCCTGGTTCGATCCCGGGTTTCACCACCA
+>Homo_sapiens_chr6.trna103-PheGAA ncrna Chromosome:NA trna103-PheGAA gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna103-PheGAA Homo_sapiens_chr6.trna103-PheGAA (28791166-28791093)  Phe (GAA) 74 bp  Sc: 67.94
+GCCGAAATAGCTCAGTTGGGAGAGCGTTAGACCGAAGATCTTAAAGGTCCCTGGTTCAATCCCGGGTTTCGGCACCA
+>Homo_sapiens_chr6.trna106-PheGAA ncrna Chromosome:NA trna106-PheGAA gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna106-PheGAA Homo_sapiens_chr6.trna106-PheGAA (28775682-28775610)  Phe (GAA) 73 bp  Sc: 82.13
+GCCGAGATAGCTCAGTTGGGAGAGCGTTAGACTGAAGATCTAAAGGTCCCTGGTTCAATCCCGGGTTTCGGCACCA
+>Homo_sapiens_chr11.trna13-PheGAA ncrna Chromosome:NA trna13-PheGAA gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna13-PheGAA Homo_sapiens_chr11.trna13-PheGAA (59333925-59333853)  Phe (GAA) 73 bp  Sc: 82.45
+GCCGAAATAGCTCAGTTGGGAGAGCGTTAGACTGAAGATCTAAAGGTCCCTGGTTCAATCCCGGGTTTCGGCACCA
+>Homo_sapiens_chr11.trna15-PheGAA ncrna Chromosome:NA trna15-PheGAA gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna15-PheGAA Homo_sapiens_chr11.trna15-PheGAA (59325042-59324970)  Phe (GAA) 73 bp  Sc: 84.19
+GCCGAAATAGCTCAGTTGGGAGAGCGTTAGACTGAAGATCTAAAGGTCCCTGGTTCGATCCCGGGTTTCGGCACCA
+>Homo_sapiens_chr1.trna65-ProAGG ncrna Chromosome:NA trna65-ProAGG gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna65-ProAGG Homo_sapiens_chr1.trna65-ProAGG (167684796-167684725)  Pro (AGG) 72 bp  Sc: 75.92
+GGCTCGTTGGTCTAGGGGTATGATTCTCGCTTAGGGTGCGAGAGGTCCCGGGTTCAAATCCCGGACGAGCCCCCA
+>Homo_sapiens_chr16.trna11-ProAGG ncrna Chromosome:NA trna11-ProAGG gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna11-ProAGG Homo_sapiens_chr16.trna11-ProAGG (3241989-3242060)  Pro (AGG) 72 bp  Sc: 77.31
+GGCTCGTTGGTCTAGGGGTATGATTCTCGCTTAGGATGCGAGAGGTCCCGGGTTCAAATCCCGGACGAGCCCCCA
+>Homo_sapiens_chr6.trna30-ProCGG ncrna Chromosome:NA trna30-ProCGG gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna30-ProCGG Homo_sapiens_chr6.trna30-ProCGG (27059521-27059592)  Pro (CGG) 72 bp  Sc: 71.93
+GGCTCGTTGGTCTAGGGGTATGATTCTCGCTTCGGGTGTGAGAGGTCCCGGGTTCAAATCCCGGACGAGCCCCCA
+>Homo_sapiens_chr1.trna52-ProCGG ncrna Chromosome:NA trna52-ProCGG gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna52-ProCGG Homo_sapiens_chr1.trna52-ProCGG (167683962-167684033)  Pro (CGG) 72 bp  Sc: 76.52
+GGCTCGTTGGTCTAGGGGTATGATTCTCGCTTCGGGTGCGAGAGGTCCCGGGTTCAAATCCCGGACGAGCCCCCA
+>Homo_sapiens_chr14.trna6-ProTGG ncrna Chromosome:NA trna6-ProTGG gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna6-ProTGG Homo_sapiens_chr14.trna6-ProTGG (21152175-21152246)  Pro (TGG) 72 bp  Sc: 76.15
+GGCTCGTTGGTCTAGGGGTATGATTCTCGCTTTGGGTGCGAGAGGTCCCGGGTTCAAATCCCGGACGAGCCCCCA
+>Homo_sapiens_chr11.trna12-ProTGG ncrna Chromosome:NA trna12-ProTGG gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna12-ProTGG Homo_sapiens_chr11.trna12-ProTGG (75946940-75946869)  Pro (TGG) 72 bp  Sc: 76.24
+GGCTCGTTGGTCTAGGGGTATGATTCTCGGTTTGGGTCCGAGAGGTCCCGGGTTCAAATCCCGGACGAGCCCCCA
+>Homo_sapiens_chr14.trna3-ProTGG ncrna Chromosome:NA trna3-ProTGG gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna3-ProTGG Homo_sapiens_chr14.trna3-ProTGG (21101165-21101236)  Pro (TGG) 72 bp  Sc: 79.61
+GGCTCGTTGGTCTAGTGGTATGATTCTCGCTTTGGGTGCGAGAGGTCCCGGGTTCAAATCCCGGACGAGCCCCCA
+>Homo_sapiens_chr19.trna9-LysTTT ncrna Chromosome:NA trna9-LysTTT gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna9-LysTTT Homo_sapiens_chr19.trna9-LysTTT (41748214-41748142)  Lys (TTT) 73 bp  Sc: 53.63
+GCCAGGATAGTTCAGGTGGTAGAGCATCAGACTTTTAACCTGAGGGTTCAGGGTTCAAGTCTCTGTTTGGGCGCCA
+>Homo_sapiens_chr22.trna1-SeCeTCA ncrna Chromosome:NA trna1-SeCeTCA gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna1-SeCeTCA Homo_sapiens_chr22.trna1-SeCeTCA (44546537-44546622)  SeCe (TCA) 86 bp  Sc: 62.60
+GCTCGGATGATCCTCAGTGGTCTGGGGTGCAGGCTTCAAACCTGTAGCTGTCTAGTGACAGAGTGGTTCAATTCCACCTTTGTAGGCCA
+>Homo_sapiens_chr19.trna8-SeCeTCA ncrna Chromosome:NA trna8-SeCeTCA gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna8-SeCeTCA Homo_sapiens_chr19.trna8-SeCeTCA (45981945-45981860)  SeCe (TCA) 86 bp  Sc: 75.99
+GCCCGGATGATCCTCAGTGGTCTGGGGTGCAGGCTTCAAACCTGTAGCTGTCTAGCGACAGAGTGGTTCAATTCCACCTTTCGGGCCCA
+>Homo_sapiens_chr7.trna12-SerAGA ncrna Chromosome:NA trna12-SerAGA gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna12-SerAGA Homo_sapiens_chr7.trna12-SerAGA (149305467-149305538)  Ser (AGA) 72 bp  Sc: 62.08
+GGGTGTATGGCTCAGGGGTAGAGAATTTGACTAGAGATCAAGAGGTCCCTGGTTCAAATCCAGGTGCCCCCTCCA
+>Homo_sapiens_chr6.trna145-SerAGA ncrna Chromosome:NA trna145-SerAGA gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna145-SerAGA Homo_sapiens_chr6.trna145-SerAGA (27521273-27521192)  Ser (AGA) 82 bp  Sc: 79.96
+GTAGTCGTGGCCGAGTGGTTAAGGTGATGGACTAGAAACCCATTGGGGTCTCCCCGCGCAGGTTCGAATCCTGCCGACTACGCCA
+>Homo_sapiens_chr6.trna50-SerAGA ncrna Chromosome:NA trna50-SerAGA gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna50-SerAGA Homo_sapiens_chr6.trna50-SerAGA (27499987-27500068)  Ser (AGA) 82 bp  Sc: 86.61
+GTAGTCGTGGCCGAGTGGTTAAGGCGATGGACTAGAAATCCATTGGGGTTTCCCCACGCAGGTTCGAATCCTGCCGACTACGCCA
+>Homo_sapiens_chr17.trna35-SerAGA ncrna Chromosome:NA trna35-SerAGA gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna35-SerAGA Homo_sapiens_chr17.trna35-SerAGA (8130009-8129928)  Ser (AGA) 82 bp  Sc: 88.01
+GTAGTCGTGGCCGAGTGGTTAAGGCGATGGACTAGAAATCCATTGGGGTCTCCCCGCGCAGGTTCGAATCCTGCCGACTACGCCA
+>Homo_sapiens_chr6.trna147-SerAGA ncrna Chromosome:NA trna147-SerAGA gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna147-SerAGA Homo_sapiens_chr6.trna147-SerAGA (27509635-27509554)  Ser (AGA) 82 bp  Sc: 88.50
+GTAGTCGTGGCCGAGTGGTTAAGGCGATGGACTAGAAATCCATTGGGGTTTCCCCGCGCAGGTTCGAATCCTGCCGACTACGCCA
+>Homo_sapiens_chr12.trna2-SerCGA ncrna Chromosome:NA trna2-SerCGA gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna2-SerCGA Homo_sapiens_chr12.trna2-SerCGA (56584148-56584229)  Ser (CGA) 82 bp  Sc: 89.14
+GTCACGGTGGCCGAGTGGTTAAGGCGTTGGACTCGAAATCCAATGGGGTTTCCCCGCACAGGTTCGAATCCTGTTCGTGACGCCA
+>Homo_sapiens_chr6.trna137-SerCGA ncrna Chromosome:NA trna137-SerCGA gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna137-SerCGA Homo_sapiens_chr6.trna137-SerCGA (27640310-27640229)  Ser (CGA) 82 bp  Sc: 89.16
+GCTGTGATGGCCGAGTGGTTAAGGTGTTGGACTCGAAATCCAATGGGGGTTCCCCGCGCAGGTTCAAATCCTGCTCACAGCGCCA
+>Homo_sapiens_chr6.trna35-SerCGA ncrna Chromosome:NA trna35-SerCGA gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna35-SerCGA Homo_sapiens_chr6.trna35-SerCGA (27177628-27177709)  Ser (CGA) 82 bp  Sc: 90.35
+GCTGTGATGGCCGAGTGGTTAAGGCGTTGGACTCGAAATCCAATGGGGTCTCCCCGCGCAGGTTCAAATCCTGCTCACAGCGCCA
+>Homo_sapiens_chr17.trna41-SerCGA ncrna Chromosome:NA trna41-SerCGA gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna41-SerCGA Homo_sapiens_chr17.trna41-SerCGA (8042280-8042199)  Ser (CGA) 82 bp  Sc: 92.09
+GCTGTGATGGCCGAGTGGTTAAGGCGTTGGACTCGAAATCCAATGGGGTCTCCCCGCGCAGGTTCGAATCCTGCTCACAGCGCCA
+>Homo_sapiens_chr6.trna175-SerGCT ncrna Chromosome:NA trna175-SerGCT gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna175-SerGCT Homo_sapiens_chr6.trna175-SerGCT (26305801-26305718)  Ser (GCT) 84 bp  Sc: 67.16
+GGAGAGGCCTGGCCGAGTGGTTAAGGCGATGGACTGCTAATCCATTGTGCTCTGCACGCGTGGGTTCGAATCCCATCCTCGTCGCCA
+>Homo_sapiens_chr6.trna62-SerGCT ncrna Chromosome:NA trna62-SerGCT gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna62-SerGCT Homo_sapiens_chr6.trna62-SerGCT (28180815-28180896)  Ser (GCT) 82 bp  Sc: 83.46
+GACGAGGTGGCCGAGTGGTTAAGGCGATGGACTGCTAATCCATTGTGCTCTGCACACGTGGGTTCGAATCCCATCCTCGTCGCCA
+>Homo_sapiens_chr15.trna10-SerGCT ncrna Chromosome:NA trna10-SerGCT gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna10-SerGCT Homo_sapiens_chr15.trna10-SerGCT (40886104-40886023)  Ser (GCT) 82 bp  Sc: 85.34
+GACGAGGTGGCCGAGTGGTTAAGGCGATGGACTGCTAATCCATTGTGCTCTGCACGCGTGGGTTCGAATCCCATCCTCGTCGCCA
+>Homo_sapiens_chr11.trna8-SerGCT ncrna Chromosome:NA trna8-SerGCT gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna8-SerGCT Homo_sapiens_chr11.trna8-SerGCT (66115591-66115672)  Ser (GCT) 82 bp  Sc: 85.83
+GACGAGGTGGCCGAGTGGTTAAGGCGATGGACTGCTAATCCATTGTGCTTTGCACGCGTGGGTTCGAATCCCATCCTCGTCGCCA
+>Homo_sapiens_chr6.trna43-SerGCT ncrna Chromosome:NA trna43-SerGCT gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna43-SerGCT Homo_sapiens_chr6.trna43-SerGCT (27265775-27265856)  Ser (GCT) 82 bp  Sc: 86.80
+GACGAGGTGGCCGAGTGGTTAAGGCGATGGACTGCTAATCCATTGTGCTCTGCACGCGTGGGTTCGAATCCCACCTTCGTCGCCA
+>Homo_sapiens_chr6.trna31-SerGCT ncrna Chromosome:NA trna31-SerGCT gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna31-SerGCT Homo_sapiens_chr6.trna31-SerGCT (27065085-27065166)  Ser (GCT) 82 bp  Sc: 88.12
+GACGAGGTGGCCGAGTGGTTAAGGCGATGGACTGCTAATCCATTGTGCTCTGCACGCGTGGGTTCGAATCCCACCCTCGTCGCCA
+>Homo_sapiens_chr6.trna148-SerTGA ncrna Chromosome:NA trna148-SerTGA gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna148-SerTGA Homo_sapiens_chr6.trna148-SerTGA (27473688-27473607)  Ser (TGA) 82 bp  Sc: 84.78
+GTAGTCGTGGCCGAGTGGTTAAGGCGATGGACTTGAAATCCATTGGGGTTTCCCCGCGCAGGTTCGAATCCTGTCGGCTACGCCA
+>Homo_sapiens_chr6.trna172-SerTGA ncrna Chromosome:NA trna172-SerTGA gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna172-SerTGA Homo_sapiens_chr6.trna172-SerTGA (26312905-26312824)  Ser (TGA) 82 bp  Sc: 88.25
+GTAGTCGTGGCCGAGTGGTTAAGGCGATGGACTTGAAATCCATTGGGGTCTCCCCGCGCAGGTTCGAATCCTGCCGACTACGCCA
+>Homo_sapiens_chr6.trna51-SerTGA ncrna Chromosome:NA trna51-SerTGA gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna51-SerTGA Homo_sapiens_chr6.trna51-SerTGA (27513468-27513549)  Ser (TGA) 82 bp  Sc: 88.73
+GTAGTCGTGGCCGAGTGGTTAAGGCGATGGACTTGAAATCCATTGGGGTTTCCCCGCGCAGGTTCGAATCCTGCCGACTACGCCA
+>Homo_sapiens_chr10.trna2-SerTGA ncrna Chromosome:NA trna2-SerTGA gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna2-SerTGA Homo_sapiens_chr10.trna2-SerTGA (69524261-69524342)  Ser (TGA) 82 bp  Sc: 90.86
+GCAGCGATGGCCGAGTGGTTAAGGCGTTGGACTTGAAATCCAATGGGGTCTCCCCGCGCAGGTTCGAACCCTGCTCGCTGCGCCA
+>Homo_sapiens_chr17.trna17-SupTTA ncrna Chromosome:NA trna17-SupTTA gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna17-SupTTA Homo_sapiens_chr17.trna17-SupTTA (58863593-58863663)  Sup (TTA) 71 bp  Sc: 57.62
+GCCCGGATAGTTCAGTTGGTAGAGCATCAGACTTAATCAGAGGGTCCAGGGTTCAAGTCCCTGTTTGGGTGCCA
+>Homo_sapiens_chr6.trna34-ThrAGT ncrna Chromosome:NA trna34-ThrAGT gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna34-ThrAGT Homo_sapiens_chr6.trna34-ThrAGT (27130050-27130123)  Thr (AGT) 74 bp  Sc: 80.30
+GGCCCTGTGGCTTAGCTGGTCAAAGCGCCTGTCTAGTAAACAGGAGATCCTGGGTTCGAATCCCAGCGGGGCCTCCA
+>Homo_sapiens_chr6.trna60-ThrAGT ncrna Chromosome:NA trna60-ThrAGT gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna60-ThrAGT Homo_sapiens_chr6.trna60-ThrAGT (27694473-27694546)  Thr (AGT) 74 bp  Sc: 81.60
+GGCTTCGTGGCTTAGCTGGTTAAAGCGCCTGTCTAGTAAACAGGAGATCCTGGGTTCGAATCCCAGCGAGGCCTCCA
+>Homo_sapiens_chr17.trna40-ThrAGT ncrna Chromosome:NA trna40-ThrAGT gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna40-ThrAGT Homo_sapiens_chr17.trna40-ThrAGT (8042843-8042770)  Thr (AGT) 74 bp  Sc: 81.60
+GGCGCCGTGGCTTAGCTGGTTAAAGCGCCTGTCTAGTAAACAGGAGATCCTGGGTTCGAATCCCAGCGGTGCCTCCA
+>Homo_sapiens_chr6.trna69-ThrAGT ncrna Chromosome:NA trna69-ThrAGT gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna69-ThrAGT Homo_sapiens_chr6.trna69-ThrAGT (28693795-28693868)  Thr (AGT) 74 bp  Sc: 82.17
+GGCTCCGTAGCTTAGTTGGTTAAAGCGCCTGTCTAGTAAACAGGAGATCCTGGGTTCGACTCCCAGCGGGGCCTCCA
+>Homo_sapiens_chr6.trna135-ThrAGT ncrna Chromosome:NA trna135-ThrAGT gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna135-ThrAGT Homo_sapiens_chr6.trna135-ThrAGT (27652547-27652474)  Thr (AGT) 74 bp  Sc: 83.05
+GGCTCCGTGGCTTAGCTGGTTAAAGCGCCTGTCTAGTAAACAGGAGATCCTGGGTTCGAATCCCAGCGGGGCCTCCA
+>Homo_sapiens_chr17.trna36-ThrAGT ncrna Chromosome:NA trna36-ThrAGT gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna36-ThrAGT Homo_sapiens_chr17.trna36-ThrAGT (8129626-8129553)  Thr (AGT) 74 bp  Sc: 84.06
+GGCGCCGTGGCTTAGTTGGTTAAAGCGCCTGTCTAGTAAACAGGAGATCCTGGGTTCGAATCCCAGCGGTGCCTCCA
+>Homo_sapiens_chr6.trna54-ThrCGT ncrna Chromosome:NA trna54-ThrCGT gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna54-ThrCGT Homo_sapiens_chr6.trna54-ThrCGT (27586135-27586208)  Thr (CGT) 74 bp  Sc: 63.29
+GGCCCTGTAGCTCAGCGGTTGGAGCGCTGGTCTCGTAAACCTAGGGGTCGTGAGTTCAAATCTCACCAGGGCCTCCA
+>Homo_sapiens_chr17.trna14-ThrCGT ncrna Chromosome:NA trna14-ThrCGT gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna14-ThrCGT Homo_sapiens_chr17.trna14-ThrCGT (29877093-29877164)  Thr (CGT) 72 bp  Sc: 79.77
+GGCGCGGTGGCCAAGTGGTAAGGCGTCGGTCTCGTAAACCGAAGATCGCGGGTTCGAACCCCGTCCGTGCCTCCA
+>Homo_sapiens_chr6.trna121-ThrCGT ncrna Chromosome:NA trna121-ThrCGT gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna121-ThrCGT Homo_sapiens_chr6.trna121-ThrCGT (28616057-28615984)  Thr (CGT) 74 bp  Sc: 80.30
+GGCTCTGTGGCTTAGTTGGCTAAAGCGCCTGTCTCGTAAACAGGAGATCCTGGGTTCGAATCCCAGCGGGGCCTCCA
+>Homo_sapiens_chr16.trna15-ThrCGT ncrna Chromosome:NA trna15-ThrCGT gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna15-ThrCGT Homo_sapiens_chr16.trna15-ThrCGT (14379750-14379821)  Thr (CGT) 72 bp  Sc: 80.42
+GGCGCGGTGGCCAAGTGGTAAGGCGTCGGTCTCGTAAACCGAAGATCACGGGTTCGAACCCCGTCCGTGCCTCCA
+>Homo_sapiens_chr6.trna125-ThrCGT ncrna Chromosome:NA trna125-ThrCGT gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna125-ThrCGT Homo_sapiens_chr6.trna125-ThrCGT (28456843-28456770)  Thr (CGT) 74 bp  Sc: 80.88
+GGCTCTATGGCTTAGTTGGTTAAAGCGCCTGTCTCGTAAACAGGAGATCCTGGGTTCGACTCCCAGTGGGGCCTCCA
+>Homo_sapiens_chr5.trna13-ThrTGT ncrna Chromosome:NA trna13-ThrTGT gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna13-ThrTGT Homo_sapiens_chr5.trna13-ThrTGT (180618758-180618687)  Thr (TGT) 72 bp  Sc: 75.64
+GGCTCCATAGCTCAGGGGTTAGAGCACTGGTCTTGTAAACCAGGGTCGCGAGTTCAAATCTCGCTGGGGCCTCCA
+>Homo_sapiens_chr14.trna4-ThrTGT ncrna Chromosome:NA trna4-ThrTGT gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna4-ThrTGT Homo_sapiens_chr14.trna4-ThrTGT (21149849-21149921)  Thr (TGT) 73 bp  Sc: 78.79
+GGCCCTATAGCTCAGGGGTTAGAGCACTGGTCTTGTAAACCAGGGGTCGCGAGTTCAAATCTCGCTGGGGCCTCCA
+>Homo_sapiens_chr14.trna20-ThrTGT ncrna Chromosome:NA trna20-ThrTGT gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna20-ThrTGT Homo_sapiens_chr14.trna20-ThrTGT (21099391-21099319)  Thr (TGT) 73 bp  Sc: 79.46
+GGCTCCATAGCTCAGGGGTTAGAGCACTGGTCTTGTAAACCAGGGGTCGCGAGTTCAAATCTCGCTGGGGCCTCCA
+>Homo_sapiens_chr14.trna21-ThrTGT ncrna Chromosome:NA trna21-ThrTGT gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna21-ThrTGT Homo_sapiens_chr14.trna21-ThrTGT (21082021-21081949)  Thr (TGT) 73 bp  Sc: 80.94
+GGCTCCATAGCTCAGGGGTTAGAGCGCTGGTCTTGTAAACCAGGGGTCGCGAGTTCAATTCTCGCTGGGGCCTCCA
+>Homo_sapiens_chr1.trna56-ThrTGT ncrna Chromosome:NA trna56-ThrTGT gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna56-ThrTGT Homo_sapiens_chr1.trna56-ThrTGT (222638347-222638419)  Thr (TGT) 73 bp  Sc: 83.03
+GGCTCCATAGCTCAGTGGTTAGAGCACTGGTCTTGTAAACCAGGGGTCGCGAGTTCGATCCTCGCTGGGGCCTCCA
+>Homo_sapiens_chr6.trna127-ThrTGT ncrna Chromosome:NA trna127-ThrTGT gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna127-ThrTGT Homo_sapiens_chr6.trna127-ThrTGT (28442402-28442329)  Thr (TGT) 74 bp  Sc: 84.82
+GGCTCTATGGCTTAGTTGGTTAAAGCGCCTGTCTTGTAAACAGGAGATCCTGGGTTCGAATCCCAGTAGAGCCTCCA
+>Homo_sapiens_chr7.trna1-TrpCCA ncrna Chromosome:NA trna1-TrpCCA gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna1-TrpCCA Homo_sapiens_chr7.trna1-TrpCCA (99067307-99067378)  Trp (CCA) 72 bp  Sc: 70.08
+GACCTCGTGGCGCAACGGCAGCGCGTCTGACTCCAGATCAGAAGGTTGCGTGTTCAAATCACGTCGGGGTCACCA
+>Homo_sapiens_chr12.trna6-TrpCCA ncrna Chromosome:NA trna6-TrpCCA gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna6-TrpCCA Homo_sapiens_chr12.trna6-TrpCCA (98898030-98898101)  Trp (CCA) 72 bp  Sc: 71.65
+GACCTCGTGGCGCAACGGTAGCGCGTCTGACTCCAGATCAGAAGGCTGCGTGTTCGAATCACGTCGGGGTCACCA
+>Homo_sapiens_chr17.trna6-TrpCCA ncrna Chromosome:NA trna6-TrpCCA gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna6-TrpCCA Homo_sapiens_chr17.trna6-TrpCCA (8089676-8089747)  Trp (CCA) 72 bp  Sc: 74.00
+GACCTCGTGGCGCAACGGTAGCGCGTCTGACTCCAGATCAGAAGGTTGCGTGTTCAAATCACGTCGGGGTCACCA
+>Homo_sapiens_chr17.trna12-TrpCCA ncrna Chromosome:NA trna12-TrpCCA gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna12-TrpCCA Homo_sapiens_chr17.trna12-TrpCCA (19411494-19411565)  Trp (CCA) 72 bp  Sc: 74.80
+GACCTCGTGGCGCAATGGTAGCGCGTCTGACTCCAGATCAGAAGGTTGCGTGTTCAAGTCACGTCGGGGTCACCA
+>Homo_sapiens_chr17.trna39-TrpCCA ncrna Chromosome:NA trna39-TrpCCA gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna39-TrpCCA Homo_sapiens_chr17.trna39-TrpCCA (8124258-8124187)  Trp (CCA) 72 bp  Sc: 74.81
+GGCCTCGTGGCGCAACGGTAGCGCGTCTGACTCCAGATCAGAAGGTTGCGTGTTCAAATCACGTCGGGGTCACCA
+>Homo_sapiens_chr2.trna14-TyrATA ncrna Chromosome:NA trna14-TyrATA gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna14-TyrATA Homo_sapiens_chr2.trna14-TyrATA (219110549-219110641)  Tyr (ATA) 73 bp  Sc: 55.93
+CCTTCAATAGTTCAGCTGGTAGAGCAGAGGACTATAGGTCCTTAGGTTGCTGGTTCGATTCCAGCTTGAAGGACCA
+>Homo_sapiens_chr7.trna9-TyrGTA ncrna Chromosome:NA trna9-TyrGTA gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna9-TyrGTA Homo_sapiens_chr7.trna9-TyrGTA (149255133-149255205)  Tyr (GTA) 73 bp  Sc: 49.38
+GGGGGTATAGCTCAGGGCTAGAGCTTTTTGACTGTAGAGCAAGAGGTCCCTGGTTCAAATCCAGGTTCTCCCTCCA
+>Homo_sapiens_chr14.trna19-TyrGTA ncrna Chromosome:NA trna19-TyrGTA gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna19-TyrGTA Homo_sapiens_chr14.trna19-TyrGTA (21121351-21121258)  Tyr (GTA) 73 bp  Sc: 74.71
+CCTTCGATAGCTCAGCTGGTAGAGCGGAGGACTGTAGATCCTTAGGTCGCTGGTTCGATTCCGGCTCGAAGGACCA
+>Homo_sapiens_chr14.trna18-TyrGTA ncrna Chromosome:NA trna18-TyrGTA gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna18-TyrGTA Homo_sapiens_chr14.trna18-TyrGTA (21125716-21125623)  Tyr (GTA) 73 bp  Sc: 75.82
+CCTTCGATAGCTCAGCTGGTAGAGCGGAGGACTGTAGATCCTTAGGTCGCTGGTTCGATTCCAGCTCGAAGGACCA
+>Homo_sapiens_chr14.trna17-TyrGTA ncrna Chromosome:NA trna17-TyrGTA gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna17-TyrGTA Homo_sapiens_chr14.trna17-TyrGTA (21128210-21128117)  Tyr (GTA) 73 bp  Sc: 71.83
+CCTTCGATAGCTCAGCTGGTAGAGCGGAGGACTGTAGATCCTTAGGTCGCTGGTTCAATTCCGGCTCGAAGGACCA
+>Homo_sapiens_chr14.trna16-TyrGTA ncrna Chromosome:NA trna16-TyrGTA gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna16-TyrGTA Homo_sapiens_chr14.trna16-TyrGTA (21131444-21131351)  Tyr (GTA) 73 bp  Sc: 74.71
+CCTTCGATAGCTCAGCTGGTAGAGCGGAGGACTGTAGATCCTTAGGTCGCTGGTTCGATTCCGGCTCGAAGGACCA
+>Homo_sapiens_chr14.trna5-TyrGTA ncrna Chromosome:NA trna5-TyrGTA gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna5-TyrGTA Homo_sapiens_chr14.trna5-TyrGTA (21151432-21151520)  Tyr (GTA) 73 bp  Sc: 75.42
+CCTTCGATAGCTCAGCTGGTAGAGCGGAGGACTGTAGATCCTTAGGTCGCTGGTTCGATTCCGGCTCGAAGGACCA
+>Homo_sapiens_chr6.trna14-TyrGTA ncrna Chromosome:NA trna14-TyrGTA gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna14-TyrGTA Homo_sapiens_chr6.trna14-TyrGTA (26569086-26569176)  Tyr (GTA) 73 bp  Sc: 76.45
+CCTTCGATAGCTCAGTTGGTAGAGCGGAGGACTGTAGATCCTTAGGTCGCTGGTTCGAATCCGGCTCGAAGGACCA
+>Homo_sapiens_chr6.trna15-TyrGTA ncrna Chromosome:NA trna15-TyrGTA gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna15-TyrGTA Homo_sapiens_chr6.trna15-TyrGTA (26575798-26575887)  Tyr (GTA) 73 bp  Sc: 72.82
+CTTTCGATAGCTCAGTTGGTAGAGCGGAGGACTGTAGATCCTTAGGTCGCTGGTTCGAATCCGGCTCGAAGGACCA
+>Homo_sapiens_chr6.trna16-TyrGTA ncrna Chromosome:NA trna16-TyrGTA gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna16-TyrGTA Homo_sapiens_chr6.trna16-TyrGTA (26577332-26577420)  Tyr (GTA) 73 bp  Sc: 77.01
+CCTTCGATAGCTCAGTTGGTAGAGCGGAGGACTGTAGATCCTTAGGTCGCTGGTTCGAATCCGGCTCGGAGGACCA
+>Homo_sapiens_chr6.trna17-TyrGTA ncrna Chromosome:NA trna17-TyrGTA gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna17-TyrGTA Homo_sapiens_chr6.trna17-TyrGTA (26595102-26595190)  Tyr (GTA) 73 bp  Sc: 73.91
+CCTTCGATAGCTCAGCTGGTAGAGCGGAGGACTGTAGATCCTTAGGTCGCTGGTTCGAATCCGGCTCGGAGGACCA
+>Homo_sapiens_chr2.trna2-TyrGTA ncrna Chromosome:NA trna2-TyrGTA gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna2-TyrGTA Homo_sapiens_chr2.trna2-TyrGTA (27273650-27273738)  Tyr (GTA) 73 bp  Sc: 75.87
+CCTTCGATAGCTCAGTTGGTAGAGCGGAGGACTGTAGATCCTTAGGTCGCTGGTTCGATTCCGGCTCGAAGGACCA
+>Homo_sapiens_chr8.trna4-TyrGTA ncrna Chromosome:NA trna4-TyrGTA gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna4-TyrGTA Homo_sapiens_chr8.trna4-TyrGTA (67025602-67025694)  Tyr (GTA) 73 bp  Sc: 73.04
+CCTTCGATAGCTCAGCTGGTAGAGCGGAGGACTGTAGATCCTTAGGTCGCTGGTTCGATTCCGGCTCGAAGGACCA
+>Homo_sapiens_chr8.trna5-TyrGTA ncrna Chromosome:NA trna5-TyrGTA gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna5-TyrGTA Homo_sapiens_chr8.trna5-TyrGTA (67026223-67026311)  Tyr (GTA) 73 bp  Sc: 69.69
+CCTTCGATAGCTCAGCTGGTAGAGCGGAGGACTGTAGATCCTTAGGTCGCTGGTTCGATTCCGGCTCGAAGGACCA
+>Homo_sapiens_chr1.trna63-ValAAC ncrna Chromosome:NA trna63-ValAAC gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna63-ValAAC Homo_sapiens_chr1.trna63-ValAAC (180184348-180184276)  Val (AAC) 73 bp  Sc: 48.28
+GTTTCCATAGTGTACTGGTTATCACATTCACCTAACACGCGAAAGGTCCTTGGTTTGAAACCAGGCAGAAACACCA
+>Homo_sapiens_chr6.trna115-ValAAC ncrna Chromosome:NA trna115-ValAAC gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna115-ValAAC Homo_sapiens_chr6.trna115-ValAAC (28703277-28703206)  Val (AAC) 72 bp  Sc: 64.08
+GGGGGTGTAGCTCAGTGGTAGAGCGTATGCTTAACATTCATGAGGCTCTGGGTTCGATCCCCAGCACTTCCACCA
+>Homo_sapiens_chr6.trna37-ValAAC ncrna Chromosome:NA trna37-ValAAC gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna37-ValAAC Homo_sapiens_chr6.trna37-ValAAC (27203288-27203360)  Val (AAC) 73 bp  Sc: 74.63
+GTTTCCGTAGTGTAGTGGTTATCACGTTTGCCTAACACGCGAAAGGTCCCCGGTTCGAAACCGGGCAGAAACACCA
+>Homo_sapiens_chr6.trna136-ValAAC ncrna Chromosome:NA trna136-ValAAC gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna136-ValAAC Homo_sapiens_chr6.trna136-ValAAC (27648957-27648885)  Val (AAC) 73 bp  Sc: 79.68
+GTTTCCGTAGTGTAGTGGTTATCACGTTCGCCTAACACGCGAAAGGTCCGCGGTTCGAAACCGGGCGGAAACACCA
+>Homo_sapiens_chr6.trna139-ValAAC ncrna Chromosome:NA trna139-ValAAC gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna139-ValAAC Homo_sapiens_chr6.trna139-ValAAC (27618779-27618707)  Val (AAC) 73 bp  Sc: 81.58
+GTTTCCGTAGTGTAGTGGTTATCACGTTCGCCTAACACGCGAAAGGTCCCTGGATCAAAACCAGGCGGAAACACCA
+>Homo_sapiens_chr5.trna15-ValAAC ncrna Chromosome:NA trna15-ValAAC gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna15-ValAAC Homo_sapiens_chr5.trna15-ValAAC (180615488-180615416)  Val (AAC) 73 bp  Sc: 84.70
+GTTTCCGTAGTGTAGTGGTCATCACGTTCGCCTAACACGCGAAAGGTCCCCGGTTCGAAACCGGGCGGAAACACCA
+>Homo_sapiens_chr3.trna2-ValAAC ncrna Chromosome:NA trna2-ValAAC gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna2-ValAAC Homo_sapiens_chr3.trna2-ValAAC (169490018-169490090)  Val (AAC) 73 bp  Sc: 86.79
+GTTTCCGTAGTGTAGTGGTTATCACGTTCGCCTAACACGCGAAAGGTCCCCGGTTCGAAACCGGGCGGAAACACCA
+>Homo_sapiens_chr1.trna130-ValCAC ncrna Chromosome:NA trna130-ValCAC gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna130-ValCAC Homo_sapiens_chr1.trna130-ValCAC (17006573-17006501)  Val (CAC) 73 bp  Sc: 52.98
+GTTTCTGTGGTGTAGTGGTTATCATGTTCGCCTCACACGAGAAAAGTCCCTGATTCGAGACTGGGTGGGAACGCCA
+>Homo_sapiens_chr6.trna32-ValCAC ncrna Chromosome:NA trna32-ValCAC gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna32-ValCAC Homo_sapiens_chr6.trna32-ValCAC (27118022-27118094)  Val (CAC) 73 bp  Sc: 56.94
+GTTTCTGTAGTATGGTGGTTATCACGTTAGTCTCACACGTGAAAGGTCCCTGGTTCGAAACCAGGTGGAAACACCA
+>Homo_sapiens_chr1.trna99-ValCAC ncrna Chromosome:NA trna99-ValCAC gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna99-ValCAC Homo_sapiens_chr1.trna99-ValCAC (149294736-149294666)  Val (CAC) 71 bp  Sc: 60.62
+GCACTGGTGGTTCAGTGGTAGAATTCTCGCCTCACACGCGGGACACCCGGGTTCAATTCCCGGTCAAGGCACCA
+>Homo_sapiens_chr6.trna133-ValCAC ncrna Chromosome:NA trna133-ValCAC gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna133-ValCAC Homo_sapiens_chr6.trna133-ValCAC (27696399-27696327)  Val (CAC) 73 bp  Sc: 64.50
+GTTTCCGTAGTGTAGTGGTTATTATGTTCGCCTCACACGCGAAAAGTCCCCGGTTCGAAATCAGGCGGGAACACCA
+>Homo_sapiens_chr6.trna157-ValCAC ncrna Chromosome:NA trna157-ValCAC gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna157-ValCAC Homo_sapiens_chr6.trna157-ValCAC (27173939-27173867)  Val (CAC) 73 bp  Sc: 73.23
+GTTTCCGTAGTGGAGTGGTTATCACGTTCGCCTCACACGCGAAAGGTCCCCGGTTTGAAACCAGGCGGAAACACCA
+>Homo_sapiens_chr1.trna90-ValCAC ncrna Chromosome:NA trna90-ValCAC gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna90-ValCAC Homo_sapiens_chr1.trna90-ValCAC (149684161-149684088)  Val (CAC) 74 bp  Sc: 77.15
+GTTTCCGTAGTGTAGTGGTTATCACGTTCGCCTCACACGCGTAAAGGTCCCCGGTTCGAAACCGGGCGGAAACACCA
+>Homo_sapiens_chr1.trna98-ValCAC ncrna Chromosome:NA trna98-ValCAC gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna98-ValCAC Homo_sapiens_chr1.trna98-ValCAC (149298627-149298555)  Val (CAC) 73 bp  Sc: 82.06
+GTTTCCGTAGTGTAGTGGTTATCACGTTCGCCTCACACGCGAAAGGTCCCCGGTTCGAAACTGGGCGGAAACACCA
+>Homo_sapiens_chr19.trna13-ValCAC ncrna Chromosome:NA trna13-ValCAC gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna13-ValCAC Homo_sapiens_chr19.trna13-ValCAC (4724719-4724647)  Val (CAC) 73 bp  Sc: 84.20
+GTTTCCGTAGTGTAGCGGTTATCACATTCGCCTCACACGCGAAAGGTCCCCGGTTCGATCCCGGGCGGAAACACCA
+>Homo_sapiens_chr6.trna152-ValCAC ncrna Chromosome:NA trna152-ValCAC gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna152-ValCAC Homo_sapiens_chr6.trna152-ValCAC (27248121-27248049)  Val (CAC) 73 bp  Sc: 87.34
+GCTTCTGTAGTGTAGTGGTTATCACGTTCGCCTCACACGCGAAAGGTCCCCGGTTCGAAACCGGGCAGAAGCACCA
+>Homo_sapiens_chr1.trna85-ValCAC ncrna Chromosome:NA trna85-ValCAC gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna85-ValCAC Homo_sapiens_chr1.trna85-ValCAC (161369562-161369490)  Val (CAC) 73 bp  Sc: 87.39
+GTTTCCGTAGTGTAGTGGTTATCACGTTCGCCTCACACGCGAAAGGTCCCCGGTTCGAAACCGGGCGGAAACACCA
+>Homo_sapiens_chr6.trna40-ValTAC ncrna Chromosome:NA trna40-ValTAC gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna40-ValTAC Homo_sapiens_chr6.trna40-ValTAC (27258405-27258477)  Val (TAC) 73 bp  Sc: 76.42
+GTTTCCGTGGTGTAGTGGTTATCACATTCGCCTTACACGCGAAAGGTCCTCGGGTCGAAACCGAGCGGAAACACCA
+>Homo_sapiens_chr10.trna6-ValTAC ncrna Chromosome:NA trna6-ValTAC gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna6-ValTAC Homo_sapiens_chr10.trna6-ValTAC (5895746-5895674)  Val (TAC) 73 bp  Sc: 81.67
+GGTTCCATAGTGTAGTGGTTATCACATCTGCTTTACACGCAGAAGGTCCTGGGTTCAAGCCCCAGTGGAACCACCA
+>Homo_sapiens_chr11.trna16-ValTAC ncrna Chromosome:NA trna16-ValTAC gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna16-ValTAC Homo_sapiens_chr11.trna16-ValTAC (59318532-59318460)  Val (TAC) 73 bp  Sc: 82.67
+GGTTCCATAGTGTAGCGGTTATCACGTCTGCTTTACACGCAGAAGGTCCTGGGTTCGAGCCCCAGTGGAACCACCA
+>Homo_sapiens_chr11.trna17-ValTAC ncrna Chromosome:NA trna17-ValTAC gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:trna17-ValTAC Homo_sapiens_chr11.trna17-ValTAC (59318174-59318102)  Val (TAC) 73 bp  Sc: 85.12
+GGTTCCATAGTGTAGTGGTTATCACGTCTGCTTTACACGCAGAAGGTCCTGGGTTCGAGCCCCAGTGGAACCACCA
+>Ecoli_Lys ncrna Chromosome:NA >Ecoli_Lys gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:>Ecoli_Lys Ecoli_Lys
+GGGTCGTTAGCTCAGTTGGTAGAGCAGTTGACTTTTAATCAATTGGTCGCAGGTTCGAATCCTGCACGACCCACCA
+>Ecoli_Tyr ncrna Chromosome:NA >Ecoli_Tyr gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:>Ecoli_Tyr Ecoli_Tyr
+GGTGGGGTTCCCGAGCGGCCAAAGGGAGCAGACTGTAAATCTGCCGTCATCGACTTCGAAGGTTCGAATCCTTCCCCCACCACCA
+>Yeast_Phe ncrna Chromosome:NA >Yeast_Phe gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:>Yeast_Phe Yeast_Phe
+GCGGATTTAGCTCAGTTGGGAGAGCGCCAGACTGAAGATCTGGAGGTCCTGTGTTCGATCCACAGAATTCGCACCA
+>mtAlaTGC ncrna Chromosome:NA >mtAlaTGC gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:>mtAlaTGC mtAlaTGC
+AAGGGCTTAGCTTAATTAAAGTGGCTGATTTGCGTTCAGTTGATGCAGAGTGGGGTTTTGCAGTCCTTACCA
+>mtCysGCA ncrna Chromosome:NA >mtCysGCA gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:>mtCysGCA mtCysGCA
+AGCTCCGAGGTGATTTTCATATTGAATTGCAAATTCGAAGAAGCAGCTTCAAACCTGCCGGGGCTTCCA
+>mtAspGTC ncrna Chromosome:NA >mtAspGTC gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:>mtAspGTC mtAspGTC
+AAGGTATTAGAAAAACCATTTCATAACTTTGTCAAAGTTAAATTATAGGCTAAATCCTATATATCTTACCA
+>mtGluTTC ncrna Chromosome:NA >mtGluTTC gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:>mtGluTTC mtGluTTC
+GTTCTTGTAGTTGAAATACAACGATGGTTTTTCATATCATTGGTCGTGGTTGTAGTCCGTGCGAGAATACCA
+>mtPheGAA ncrna Chromosome:NA >mtPheGAA gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:>mtPheGAA mtPheGAA
+GTTTATGTAGCTTACCTCCTCAAAGCAATACACTGAAAATGTTTAGACGGGCTCACATCACCCCATAAACACCA
+>mtGlyTCC ncrna Chromosome:NA >mtGlyTCC gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:>mtGlyTCC mtGlyTCC
+ACTCTTTTAGTATAAATAGTACCGTTAACTTCCAATTAACTAGTTTTGACAACATTCAAAAAAGAGTACCA
+>mtHisGTG ncrna Chromosome:NA >mtHisGTG gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:>mtHisGTG mtHisGTG
+GTAAATATAGTTTAACCAAAACATCAGATTGTGAATCTGACAACAGAGGCTTACGACCCCTTATTTACCCCA
+>mtIleGAT ncrna Chromosome:NA >mtIleGAT gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:>mtIleGAT mtIleGAT
+AGAAATATGTCTGATAAAAGAGTTACTTTGATAGAGTAAATAATAGGAGCTTAAACCCCCTTATTTCTACCA
+>mtLysTTT ncrna Chromosome:NA >mtLysTTT gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:>mtLysTTT mtLysTTT
+CACTGTAAAGCTAACTTAGCATTAACCTTTTAAGTTAAAGATTAAGAGAACCAACACCTCTTTACAGTGACCA
+>mtLeuTAG ncrna Chromosome:NA >mtLeuTAG gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:>mtLeuTAG mtLeuTAG
+ACTTTTAAAGGATAACAGCTATCCATTGGTCTTAGGCCCCAAAAATTTTGGTGCAACTCCAAATAAAAGTACCA
+>mtLeuTAA ncrna Chromosome:NA >mtLeuTAA gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:>mtLeuTAA mtLeuTAA
+GTTAAGATGGCAGAGCCCGGTAATCGCATAAAACTTAAAACTTTACAGTCAGAGGTTCAATTCCTCTTCTTAACACCA
+>mtMetCAT ncrna Chromosome:NA >mtMetCAT gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:>mtMetCAT mtMetCAT
+AGTAAGGTCAGCTAAATAAGCTATCGGGCCCATACCCCGAAAATGTTGGTTATACCCTTCCCGTACTACCA
+>mtAsnGTT ncrna Chromosome:NA >mtAsnGTT gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:>mtAsnGTT mtAsnGTT
+TAGATTGAAGCCAGTTGATTAGGGTGCTTAGCTGTTAACTAAGTGTTTGTGGGTTTAAGTCCCATTGGTCTAGCCA
+>mtProTGG ncrna Chromosome:NA >mtProTGG gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:>mtProTGG mtProTGG
+CAGAGAATAGTTTAAATTAGAATCTTAGCTTTGGGTGCTAATGGTGGAGTTAAAGACTTTTTCTCTGACCA
+>mtGlnTTG ncrna Chromosome:NA >mtGlnTTG gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:>mtGlnTTG mtGlnTTG
+TAGGATGGGGTGTGATAGGTGGCACGGAGAATTTTGGATTCTCAGGGATGGGTTCGATTCTCATAGTCCTAGCCA
+>mtArgTCG ncrna Chromosome:NA >mtArgTCG gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:>mtArgTCG mtArgTCG
+TGGTATATAGTTTAAACAAAACGAATGATTTCGACTCATTAAATTATGATAATCATATTTACCAACCA
+>mtSerTGA ncrna Chromosome:NA >mtSerTGA gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:>mtSerTGA mtSerTGA
+GAAAAAGTCATGGAGGCCATGGGGTTGGCTTGAAACCAGCTTTGGGGGGTTCGATTCCTTCCTTTTTTGCCA
+>mtSerGCT ncrna Chromosome:NA >mtSerGCT gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:>mtSerGCT mtSerGCT
+GAGAAAGCTCACAAGAACTGCTAACTCATGCCCCCATGTCTACCATGGCTTTCTCACCA
+>mtThrTGT ncrna Chromosome:NA >mtThrTGT gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:>mtThrTGT mtThrTGT
+GTCCTTGTAGTATAAACTAATACACCAGTCTTGTAAACCGGAGATGAAAACCTTTTTCCAAGGACACCA
+>mtValTAC ncrna Chromosome:NA >mtValTAC gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:>mtValTAC mtValTAC
+CAGAGTGTAGCTTAACACAAAGCACCCAACTTACACTTAGGAGATTTCAACTTAACTTGACCGCTCTGACCA
+>mtTrpTCA ncrna Chromosome:NA >mtTrpTCA gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:>mtTrpTCA mtTrpTCA
+AGAAATTTAGGTTAAATACAGACCAAGAGCCTTCAAAGCCCTCAGTAAGTTGCAATACTTAATTTCTGCCA
+>mtTyrGTA ncrna Chromosome:NA >mtTyrGTA gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:>mtTyrGTA mtTyrGTA
+GGTAAAATGGCTGAGTGAAGCATTGGACTGTAAATCTAAAGACAGGGGTTAGGCCTCTTTTTACCACCA
+>spikein_SCC1 ncrna Chromosome:NA >spikein_SCC1 gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:>spikein_SCC1 spikein_SCC1
+GCGGACTAGGTCCTGTGTTCGATCCACAGAGTTCGCACC
+>spikein_SCCA1 ncrna Chromosome:NA >spikein_SCCA1 gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:>spikein_SCCA1 spikein_SCCA1
+GCGGACTAGGTCCTGTGTTCGATCCACAGAGTTCGCACCA
+>spikein_SCCA2 ncrna Chromosome:NA >spikein_SCCA2 gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:>spikein_SCCA2 spikein_SCCA2
+CGCTTGAAGGTCCTGTGTTCGGACTCCACAGTCAGGCGACCA
+>spikein_SCCA3 ncrna Chromosome:NA >spikein_SCCA3 gene_biotype:tRNA transcript_biotype:tRNA gene_symbol:>spikein_SCCA3 spikein_SCCA3
+GCGGACTAGGTCGACACTTTCGGACTTCGTGTCAGTTCGCACCA
+>Homo_sapiens_chrX.rRNA-5SR5SR
+GTCTACGGCCATACCACCCTGAACGCGCCCGATCTCGTCTGATCTCGGAAGCTAAGCAGGGTCGGGCCTG
+GTTAGTACTTGGATGGGAGACCGCCTGGGAATACCGGGTGCTGTAGGCTTT
+>Homo_sapiens_chrX.rRNA-58S58S
+CGACTCTTAGCGGTGGATCACTCGGCTCGTGCGTCGATGAAGAACGCAGCTAGCTGCGAGAATTAATGTG
+AATTGCAGGACACATTGATCATCGACACTTCGAACGCACTTGCGGCCCCGGGTTCCTCCCGGGGCTACGC
+CTGTCTGAGCGTCGCTT
+>NR_004394.1 Homo sapiens RNA, U6 small nuclear 1 (RNU6-1), small nuclear RNA
+GTGCTCGCTTCGGCAGCACATATACTAAAATTGGAACGATACAGAGAAGATTAGCATGGCCCCTGCGCAA
+GGATGACACGCAAATTCGTGAAGCGTTCCATATTTT
+>NR_002716.3 Homo sapiens RNA, U2 small nuclear 1 (RNU2-1), small nuclear RNA
+ATCGCTTCTCGGCCTTTTGGCTAAGATCAAGTGTAGTATCTGTTCTTATCAGTTTAATATCTGATACGTC
+CTCTATCCGAGGACAATATATTAAATGGATTTTTGGAGCAGGGAGATGGAATAGGAGCTTGCTCCGTCCA
+CTCCACGCATCGACCTGGTATTGCAGTACCTCCAGGAACGGTGCACCC
+>NR_003925.1 Homo sapiens RNA, U4 small nuclear 1 (RNU4-1), small nuclear RNA
+AGCTTTGCGCAGTGGCAGTATCGTAGCCAATGAGGTCTATCCGAGGCGCGATTATTGCTAATTGAAAACT
+TTTCCCAATACCCCGCCGTGACGACTTGCAATATAGTCGGCACTGGCAATTTTTGACAGTCTCTACGGAG
+ACTG
+>NR_004430.2 Homo sapiens RNA, U1 small nuclear 1 (RNU1-1), small nuclear RNA
+ATACTTACCTGGCAGGGGAGATACCATGATCACGAAGGTGGTTTTCCCAGGGCGAGGCTTATCCATTGCA
+CTCCGGATGTGCTGACCCCTGCGATTTCCCCAAATGTGGGAAACTCGACTGCATAATTTGTGGTAGTGGG
+GGACTGCGTTCGCGCTTTCCCCTG
+>NR_002756.2 Homo sapiens RNA, U5A small nuclear 1 (RNU5A-1), small nuclear RNA
+ATACTCTGGTTTCTCTTCAGATCGCATAAATCTTTCGCCTTTTACTAAAGATTTCCGTGGAGAGGAACAA
+CTCTGAGTCTTAACCCAATTTTTTGAGGCCTTGCTTTGGCAAGGCTA
+>NR_004391.1 Homo sapiens RNA, Ro60-associated Y1 (RNY1), Y RNA
+GGCTGGTCCGAAGGTAGTGAGTTATCTCAATTGATTGTTCACAGTCAGTTACAGATCGAACTCCTTGTTC
+TACTCTTTCCCCCCTTCTCACTACTGCACTTGACTAGTCTTTT
+>NR_004392.1 Homo sapiens RNA, Ro60-associated Y3 (RNY3), Y RNA
+GGCTGGTCCGAGTGCAGTGGTGTTTACAACTAATTGATCACAACCAGTTACAGATTTCTTTGTTCCTTCT
+CCACTCCCACTGCTTCACTTGACTAGCCTTTT
+>NR_004393.1 Homo sapiens RNA, Ro60-associated Y4 (RNY4), Y RNA
+GGCTGGTCCGATGGTAGTGGGTTATCAGAACTTATTAACATTAGTGTCACTAAAGTTGGTATACAACCCC
+CCACTGCTAAATTTGACTGGCTTTTT
+>NR_001571.2 Homo sapiens RNA, Ro60-associated Y5 (RNY5), Y RNA
+AGTTGGTCCGAGTGTTGTGGGTTATTGTTAAGTTGATTTAACATTGTCTCCCCCCACAACCGCGCTTGAC
+TAGCTTGCTGTTTT
